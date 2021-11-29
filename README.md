@@ -18,7 +18,7 @@ Ferrum Network was founded by a team of experts with a long-standing professiona
 
 ![Naiem Yeganeh, Founder at Ferrum Network](.gitbook/assets/Naiem-Yeganeh-PHD.png)
 
-[Naiem Yeganeh](https://www.linkedin.com/in/naiem-yeganeh-12874712/), Founder at Ferrum Network
+****[**Naiem Yeganeh**](https://www.linkedin.com/in/naiem-yeganeh-12874712/)**, Founder at Ferrum Network**
 
 Naiem Yeganeh is a co-founder and CEO of Ferrum Network. He graduated from the University of Queensland and began a career in software engineering in 2013.
 
