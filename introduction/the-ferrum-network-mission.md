@@ -24,6 +24,8 @@ Ferrum Network's sophisticated solutions simplify the complexity of building a m
 >
 > Source: [How Polkadot tackles the biggest problems facing blockchain innovators](https://link.medium.com/o1goC1nazlb)
 
+#### Why Should You Care?
+
 As a developer, you no longer need to figure out architectural problems that come from launching your dApp, game, or metaverse on an EVM-compatible network like Polygon and providing seamless integration to a non-EVM compatible network like Solana.
 
 Build the core solution on The Ferrum Network and leave the complexity of seamless multi-chain integration to the underlying technology. The Ferrum Network lets you implement interactions that enable the cross-chain transfer of value, data, and functional components. All of this is compiled and presented to the end-users in a seamless experience.
