@@ -5,7 +5,7 @@
 ## 👋 Introduction
 
 * [The Ferrum Network Mission](introduction/the-ferrum-network-mission.md)
-* [Market](introduction/market.md)
+* [Market Opportunity](introduction/market-opportunity.md)
 * [Problem and the Solution](introduction/problem-and-the-solution.md)
 * [Team](introduction/team.md)
 
