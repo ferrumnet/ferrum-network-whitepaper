@@ -11,12 +11,12 @@
 
 ## 🛠 Architecture
 
-* [How Ferrum Network's Core Tech Works](architecture/how-ferrum-networks-core-tech-works/README.md)
-  * [Ferrum Runtime](architecture/how-ferrum-networks-core-tech-works/ferrum-runtime.md)
-  * [Value Constrained PoS Rollup](architecture/how-ferrum-networks-core-tech-works/value-constrained-pos-rollup.md)
-  * [Quantum Portal](architecture/how-ferrum-networks-core-tech-works/quantum-portal.md)
-  * [Multi-chain Validators](architecture/how-ferrum-networks-core-tech-works/multi-chain-validators.md)
-  * [Substrate System](architecture/how-ferrum-networks-core-tech-works/substrate-system.md)
+* [Core Tech](architecture/core-tech/README.md)
+  * [Ferrum Runtime](architecture/core-tech/ferrum-runtime.md)
+  * [Value Constrained PoS Rollup](architecture/core-tech/value-constrained-pos-rollup.md)
+  * [Quantum Portal](architecture/core-tech/quantum-portal.md)
+  * [Multi-chain Validators](architecture/core-tech/multi-chain-validators.md)
+  * [Substrate System](architecture/core-tech/substrate-system.md)
 * [Security](architecture/security/README.md)
   * [Securing the Network](architecture/security/securing-the-network.md)
   * [Securing the Rollup](architecture/security/securing-the-rollup.md)
