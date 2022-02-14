@@ -14,10 +14,10 @@
 
 * [Core Tech](architecture/core-tech/README.md)
   * [Ferrum Runtime](architecture/core-tech/ferrum-runtime.md)
+  * [Substrate System](architecture/core-tech/substrate-system.md)
   * [Value Constrained PoS Rollup](architecture/core-tech/value-constrained-pos-rollup.md)
   * [Quantum Portal](architecture/core-tech/quantum-portal.md)
-  * [Multi-chain Validators](architecture/core-tech/multi-chain-validators.md)
-  * [Substrate System](architecture/core-tech/substrate-system.md)
+  * [Multi-Chain Validators](architecture/core-tech/multi-chain-validators.md)
 * [Security](architecture/security/README.md)
   * [Securing the Network](architecture/security/securing-the-network.md)
   * [Securing the Rollup](architecture/security/securing-the-rollup.md)
