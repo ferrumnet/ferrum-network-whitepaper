@@ -8,7 +8,7 @@ description: >-
 
 ### Removing Barriers to Mass Adoption of Crypto
 
-Ferrum Network is designed to remove barriers to the mass adoption of crypto and the underlying technologies that power the industry. Ferrum Network was born in the bear market to provide solutions that provide tremendous value regardless of market cycle to projects operating across networks.&#x20;
+Ferrum Network is designed to remove barriers to the mass adoption of crypto and the underlying technologies that power the industry. Ferrum Network was born in the bear market to provide solutions that provide tremendous value regardless of the market cycle to projects operating across networks.&#x20;
 
 ### Ferrum Network Origins and Why the Name Ferrum
 
@@ -16,7 +16,7 @@ The name Ferrum is the Latin term for Iron. We chose the name Ferrum due to Iron
 
 ### Interoperability by Design
 
-Ferrum Network's sophisticated solutions simplify the complexity of building a multi-chain solution and give developers and project owners a single entry point to every recognizable chain and network in the industry. We have thought about the pain points that come from thinking about and implementing interoperability as an afterthought in a multi-network / multi-chain world. With an ever-growing list of new EVM and non-EVM compatible chains coming to market, gaining traction and providing value to segments of the global crypto audience, interoperability has become a core value for most projects. At Ferrum Network, we design from the ground up for interoperability.
+Ferrum Network's sophisticated solutions simplify the complexity of building a multi-chain solution and give developers and project owners a single entry point to every recognizable chain and network in the industry. We have thought about the pain points that arise when implementing interoperability as an afterthought in a multi-network / multi-chain world. With an ever-growing list of new EVM and non-EVM compatible chains coming to market, gaining traction, and providing value to segments of the global crypto audience, interoperability has become a core value for most projects. At Ferrum Network, we design from the ground up for interoperability.
 
 ### **Developability — Making life easier for developers**
 
