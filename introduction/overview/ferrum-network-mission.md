@@ -4,7 +4,7 @@ description: >-
   every blockchain in the industry.
 ---
 
-# The Ferrum Network Mission
+# Ferrum Network Mission
 
 ### Removing Barriers to Mass Adoption of Crypto
 
@@ -28,6 +28,6 @@ Ferrum Network's sophisticated solutions simplify the complexity of building a m
 
 As a developer, you no longer need to figure out architectural problems that come from launching your dApp, game, or metaverse on an EVM-compatible network like Polygon and providing seamless integration to a non-EVM compatible network like Solana.
 
-Build the core solution on The Ferrum Network and leave the complexity of seamless multi-chain integration to the underlying technology. The Ferrum Network lets you implement interactions that enable the multi-chain transfer of value, data, and functional components. All of this is compiled and presented to the end-users in a seamless experience.
+Build the core solution on Ferrum Network and leave the complexity of seamless multi-chain integration to the underlying technology. Ferrum Network lets you implement interactions that enable the multi-chain transfer of value, data, and functional components. All of this is compiled and presented to the end-users in a seamless experience.
 
-Ferrum Network's sophisticated interoperability protocols allow you to engage audiences across the spectrum regardless of their core stack, consensus mechanism, or runtime environment. As a developer, you can accomplish this without having to learn about the nuances of deploying your dApp or game on each of these individual networks. Gain mastery over one protocol, The Ferrum Network, and access every network where your audience natively engages.
+Ferrum Network's sophisticated interoperability protocols allow you to engage audiences across the spectrum regardless of their core stack, consensus mechanism, or runtime environment. As a developer, you can accomplish this without having to learn about the nuances of deploying your dApp or game on each of these individual networks. Gain mastery over one protocol, Ferrum Network, and access every network where your audience natively engages.

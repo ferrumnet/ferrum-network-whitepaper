@@ -5,7 +5,7 @@
 ## 👋 Introduction
 
 * [📝 Overview](introduction/overview/README.md)
-  * [The Ferrum Network Mission](introduction/overview/the-ferrum-network-mission.md)
+  * [Ferrum Network Mission](introduction/overview/ferrum-network-mission.md)
   * [Market Opportunity](introduction/overview/market-opportunity.md)
   * [Problem and the Solution](introduction/overview/problem-and-the-solution.md)
   * [Team](introduction/overview/team.md)
