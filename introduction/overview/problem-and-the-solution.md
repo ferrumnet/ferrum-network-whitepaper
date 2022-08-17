@@ -7,9 +7,9 @@ description: >-
 
 # Problem and the Solution
 
-### A Commitement To Fight For Decentralized World
+### A Commitment To Fight For Decentralized World
 
-In our [mission](the-ferrum-network-mission.md) we described the problems faced by the industry at a high level. Now we'll dive deeper into core problems that are standing in the way of true decentralization becoming mainstream.
+In our [mission](the-ferrum-network-mission.md), we described the problems faced by the industry at a high level. Now we'll dive deeper into core problems that are standing in the way of true decentralization becoming mainstream.
 
 ### Outline
 
