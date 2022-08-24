@@ -20,6 +20,50 @@ In our [mission](the-ferrum-network-mission.md), we described the problems faced
 5. Purpose-built chains vs general purpose
 6. Our interoperability solution.
 
+### Why decentralization is important?
+
+Decentralization is a core component of a properly implemented [Trustless system](https://www.gemini.com/cryptopedia/trustless-meaning-blockchain-non-custodial-smart-contracts#section-whom-do-you-trust). If an element of centralization exists, inherently trust must be placed in the centralized entity responsible for the centralized part of the system. Such conditions and elements of centralization violate the foundational principle and ethos of crypto and blockchain technology at large.&#x20;
+
+In an attempt to solve problems of interoperability, many cross-chain solutions have introduced elements of centralization such as burn and mint, wrapped tokens, etc into the ecosystem. These implementations continue to bring elevated levels of risk to an area of crypto that is already plagued with security concerns.
+
+We believe decentralization must remain a fundamental component of any lasting interoperability solution. This is why our architectural approach relies on the native chain's consensus instead of relying on relay chain or off-chain solutions rampant in the market today.
+
+### Understanding why chains succeed
+
+Over a thousand chains have launched in the last few years. A large majority have been replicas of Ethereum utilizing the Ethereum Virtual Machine and Ethereum's robust documented and standardized [EIP](https://ethereum.org/en/eips/) (Ethereum Improvement Proposals) process. If you look at some of the most successful touring complete examples such as Ethereum, Polygon, BSC, Avalanche, and many more you'll notice a theme of EVM compatibility.&#x20;
+
+#### Why does this matter and how does this relate to the success of a chain?
+
+I'm sure we have all heard the quote:
+
+> Immitation is the greatest form of flattery
+
+When you review the slew of EVM compatible chains and their success an underlying pattern emerges. To better understand the pattern you have to dive a bit deeper toward the inception of EVM itself and the transformation of Ethereum through the introduction of EIPs.&#x20;
+
+{% embed url="https://youtu.be/X6mhXp4x2mo" %}
+Ethereum commit history influx around EIP introduction
+{% endembed %}
+
+In the web2 world, there are established standards that enable developers and contributors to engage with, enhance and further improve a protocol. Standards such as RFC for the domain name system (DNS), and design patterns such as MVC among others have empowered developers to speak the same language across organizations and nurtured a thriving environment of contribution and improvement.&#x20;
+
+When it comes to touring complete implementations in web3, EIPs were the first successful attempt at bringing these standards to the web3 world.
+
+This resulted in an influx of developers building on and contributing to the Ethereum chain. Further, these standards created a stable foundation for EVM-compatible forked layer 1 and layer 2 networks to launch.&#x20;
+
+While there are other factors that contributed to Ethereum's success and the success of EVM-compatible networks, a focus on developability was by far the largest contributor.&#x20;
+
+### Why developability is critically important?
+
+Looking back at the overwhelming success of Apple's ecosystem of success through the launch of it's App Store in 2008, followed by Google's success with the Android Marketplace Launc (Later Google Play) we can see another pattern. It's essential to prioritize builders, builder tools, incentives and pain point resolution. This applies even in industrial sectors. If you look at the Carnegie Steel empire through US Steel and what it did for builders. These refinements and a focus on making it easy for builders to create solutions resulted in the creation gargantuan economies.  In the 1900s it was skyscrapers that built New York as we know it today and pioneered vertical spaces. At the turn of the millenia it was mobile applications which revolutionized how billions live their life daily.&#x20;
+
+Ethereum brought this focus to web3 with it's mission to create a touring complete language and it's focus on standardization through the EIP process. This same concept is what keeps other layer 1 networks from gaining traction. Many networks are failing at the core requirement of making it easy for builders to develop solutions, dApps and enhancements on their network. When builders are not incentivized to create solutions, it's near impossible for a chain to gain traction as the ecosystem of viable dApps, protocols and solutions is lack luster and will likely remain so.&#x20;
+
+At Ferrum, developability and developer friendly solutions, processes and features are our super power. We know that we must attract builders, solve their pain points and give them a playground to realize their imagination with no limits. This is what we've set out to do with our networks.
+
+### Why decentralization doesn't stand a chance unless interoperability is normalized
+
+
+
 ### Removing Barriers to Mass Adoption of Crypto
 
 Ferrum Network is designed to remove barriers to the mass adoption of crypto and the underlying technologies that power the industry. Ferrum Network was born in the bear market to provide solutions that provide tremendous value regardless of the market cycle to projects operating across networks.&#x20;
