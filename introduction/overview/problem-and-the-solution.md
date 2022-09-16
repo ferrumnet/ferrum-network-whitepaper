@@ -58,9 +58,17 @@ Looking back at the overwhelming success of Apple's ecosystem of success through
 
 Ethereum brought this focus to web3 with it's mission to create a touring complete language and it's focus on standardization through the EIP process. This same concept is what keeps other layer 1 networks from gaining traction. Many networks are failing at the core requirement of making it easy for builders to develop solutions, dApps and enhancements on their network. When builders are not incentivized to create solutions, it's near impossible for a chain to gain traction as the ecosystem of viable dApps, protocols and solutions is lack luster and will likely remain so.&#x20;
 
-At Ferrum, developability and developer friendly solutions, processes and features are our super power. We know that we must attract builders, solve their pain points and give them a playground to realize their imagination with no limits. This is what we've set out to do with our networks.
+At Ferrum, developability and developer-friendly solutions, processes and features are our superpower. We know that we must attract builders, solve their pain points and give them a playground to realize their imagination with no limits. This is what we've set out to do with our networks.
 
 ### Why decentralization doesn't stand a chance unless interoperability is normalized
+
+
+
+### Purpose-built chains vs general purpose
+
+
+
+### Our interoperability solution
 
 
 
