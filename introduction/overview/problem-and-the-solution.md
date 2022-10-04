@@ -60,9 +60,9 @@ Ethereum brought this focus to web3 with its mission to create a touring complet
 
 > At Ferrum, developability and developer-friendly solutions, processes and features are our superpowers. We know that we must attract builders, solve their pain points and give them a playground to realize their imagination with no limits. This is what we've set out to do with our networks.
 >
-> – Taha Abbasi, CTO at Ferrum Network
+> _**Taha Abbasi, CTO at Ferrum Network**_
 >
-> Click to Tweet
+> [Click to Tweet](https://ctt.ac/bTcG2)
 
 ### Why decentralization doesn't stand a chance unless interoperability is normalized
 
