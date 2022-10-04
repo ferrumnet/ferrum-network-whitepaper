@@ -50,15 +50,19 @@ When it comes to touring complete implementations in web3, EIPs were the first s
 
 This resulted in an influx of developers building on and contributing to the Ethereum chain. Further, these standards created a stable foundation for EVM-compatible forked layer 1 and layer 2 networks to launch.&#x20;
 
-While there are other factors that contributed to Ethereum's success and the success of EVM-compatible networks, a focus on developability was by far the largest contributor.&#x20;
+While there are other factors that contributed to Ethereum's success and the success of EVM-compatible networks, a focus on developability was by far the largest contributor. [– Click to Tweet](https://ctt.ac/b506B)
 
 ### Why developability is critically important?
 
-Looking back at the overwhelming success of Apple's ecosystem of success through the launch of it's App Store in 2008, followed by Google's success with the Android Marketplace Launc (Later Google Play) we can see another pattern. It's essential to prioritize builders, builder tools, incentives and pain point resolution. This applies even in industrial sectors. If you look at the Carnegie Steel empire through US Steel and what it did for builders. These refinements and a focus on making it easy for builders to create solutions resulted in the creation gargantuan economies.  In the 1900s it was skyscrapers that built New York as we know it today and pioneered vertical spaces. At the turn of the millenia it was mobile applications which revolutionized how billions live their life daily.&#x20;
+Looking back at the overwhelming success of Apple's ecosystem of success through the launch of its App Store in 2008, followed by Google's success with the Android Marketplace Launch (Later Google Play) we can see another pattern. It's essential to prioritize builders, builder tools, incentives, and pain point resolution. This applies even in industrial sectors. If you look at the Carnegie Steel empire through US Steel and what it did for builders. These refinements and a focus on making it easy for builders to create solutions resulted in the creation of gargantuan economies.  In the 1900s, skyscrapers pioneered vertical spaces and made New York into a multigenerational global icon. At the turn of the millennia, it was mobile applications that revolutionized how billions live their life daily.&#x20;
 
-Ethereum brought this focus to web3 with it's mission to create a touring complete language and it's focus on standardization through the EIP process. This same concept is what keeps other layer 1 networks from gaining traction. Many networks are failing at the core requirement of making it easy for builders to develop solutions, dApps and enhancements on their network. When builders are not incentivized to create solutions, it's near impossible for a chain to gain traction as the ecosystem of viable dApps, protocols and solutions is lack luster and will likely remain so.&#x20;
+Ethereum brought this focus to web3 with its mission to create a touring complete language, and its focus on standardization through the EIP process. This same concept is what keeps other layer 1 networks from gaining traction. Many networks are failing at the core requirement of making it easy for builders to develop solutions, dApps, and enhancements on their network. When builders are not incentivized to create solutions, the ecosystem of viable dApps, protocols, and solutions on the given chain remains lackluster making it near impossible for a chain to gain traction.
 
-At Ferrum, developability and developer-friendly solutions, processes and features are our superpower. We know that we must attract builders, solve their pain points and give them a playground to realize their imagination with no limits. This is what we've set out to do with our networks.
+> At Ferrum, developability and developer-friendly solutions, processes and features are our superpowers. We know that we must attract builders, solve their pain points and give them a playground to realize their imagination with no limits. This is what we've set out to do with our networks.
+>
+> – Taha Abbasi, CTO at Ferrum Network
+>
+> Click to Tweet
 
 ### Why decentralization doesn't stand a chance unless interoperability is normalized
 
