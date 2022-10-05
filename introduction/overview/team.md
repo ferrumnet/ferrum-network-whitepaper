@@ -26,28 +26,29 @@ Over the years, Ian has grown Ferrum's reach, and impact to new heights. Ian hel
 
 Ian has also launched and successfully scaled the Ferrum Advisory Services Incubation division. Through this division, Ian and FAS have been instrumental in creating value of over $300 million in the space across metaverse, NFT, cross-chain and other crypto projects.
 
-![Taha Abbasi, CSO at Ferrum Network](../../.gitbook/assets/Taha-Abbasi-COO-Ferrum-Network-Cross-Chain-Token-Bridge-Staking-Anti-bot-Incubation-Defi.png)
+![Taha Abbasi, CTO at Ferrum Network](../../.gitbook/assets/Taha-Abbasi-COO-Ferrum-Network-Cross-Chain-Token-Bridge-Staking-Anti-bot-Incubation-Defi.png)
 
-****[**Taha Abbasi**](https://www.linkedin.com/in/tahaabbasi/)**, CSO at Ferrum Network**
+****[**Taha Abbasi**](https://www.linkedin.com/in/tahaabbasi/)**, CTO at Ferrum Network**
 
-Taha Abbasi has extensive experience building solutions at scale. He has led teams for some of the world's most prestigious organizations like Apple, NASA's JPL Labs, National Geographic Channel and more. Along with extensive technical, and business implementation experience, Taha has a formidable education background from prestigious universities, including Harvard, MIT Sloan, and more.&#x20;
+Taha Abbasi has extensive experience building solutions at scale. He has led teams for some of the world's most prestigious organizations like Apple, NASA's JPL Labs, National Geographic Channel, and more. Along with extensive technical, and business implementation experience, Taha has a formidable education background from prestigious universities, including Harvard, MIT Sloan, and more.&#x20;
 
-Taha founded a successful software firm and led engineering teams who helped contribute to the MARS 2020 and Europa Missions at JPL Labs with NASA, he advised and led as the Project CTO for National Geographic Channel SG, and built large-scale applications that serve millions of users worldwide.&#x20;
+Taha founded a successful software firm and led engineering teams who helped contribute to the MARS 2020 and Europa Missions at JPL Labs with NASA. He advised and led as the Project CTO for National Geographic Channel SG, and built large-scale applications that serve millions of users worldwide.&#x20;
+
+![Nick Odio, Chief Growth Officer at Ferrum Network](../../.gitbook/assets/Nick-Odio.png)
+
+****[**Nick Odio**](https://www.linkedin.com/in/nick-odio-176991161/)**, Chief Growth Officer at Ferrum Network**
+
+Nick Odio is a serial networker. From being heavily involved in the music industry working with Grammy award-winning artists. Nick has personally recorded music for a few Grammy award-winning artists, including Rick Ross, Chris Brown, Scott Storch, and Mario. Additionally, Nick has extensive experience in areas related to strategic partnerships, entertainment and influencer relationship management, as well as strategic initiatives.
+
+Nick Odio has been instrumental in Ferrum's growth. Nick has formed integral partnerships and helped Ferrum establish a presence by garnering interest and backing from industry leaders in the form of grants, partnerships, and capital interest. Nick continues to demonstrate an exceptional ability to stay attuned to cutting-edge innovations in crypto, providing valuable insight to the Ferrum Executive team and leadership regarding our strategic direction forward.
 
 ![Nichell Logue, EVP Operations at Ferrum Network](../../.gitbook/assets/Nichell-Logue-1.png)
 
 ****[**Nichell Logue**](https://www.linkedin.com/in/nichelllogue/)**, EVP Operations at Ferrum Network**
 
-Nichell Logue brings decades of global operations as well as brand and asset protection experience to Ferrum. Nichell has spent the last decade helping manage digital brand assets and providing brand advisory services at CSC (Corporation Service Company). CSC manages the incorporation of 90% of Fortune 500 companies. It's quite possible some of your business portfolios are managed by them. Nichell was part of the founding team of the DBS division at CSC and over her 10 year tenure Nichell was instrumental in DBS' global growth. Nichell's team was responsible for managing over $100 million in ARR for the organization.
+Nichell Logue brings decades of global operations as well as brand and asset protection experience to Ferrum. Nichell has spent the last decade helping manage digital brand assets and providing brand advisory services at CSC (Corporation Service Company). CSC manages the incorporation of 90% of Fortune 500 companies. It's quite possible some of your business portfolios are managed by them. Nichell was part of the founding team of the DBS division at CSC, and over her 10-year tenure, Nichell was instrumental in DBS' global growth. Nichell's team was responsible for managing over $100 million in ARR for the organization.
 
-![Nick Odio, EVP Partnerships & Growth at Ferrum Network](../../.gitbook/assets/Nick-Odio.png)
+![Hasnat Malik, Director of Projects at Ferrum Network](../../.gitbook/assets/Muhammad-Hasnat-Malik.png)
 
-****[**Nick Odio**](https://www.linkedin.com/in/nick-odio-176991161/)**, EVP Partnerships & Growth at Ferrum Network**
+****[**Hasnat Malik**](https://www.linkedin.com/in/hasnat-malik/)**, Director of Projects at Ferrum Network**
 
-Nick Odio is a serial networker. From being heavily involved in the music industry, working with Grammy award winning artists. Nick has personally recorded music for a few Grammy award-winning artists, including Rick Ross, Chris Brown, Scott Storch, and Mario. Additionally, Nick has extensive experience in areas related to strategic partnerships, entertainment and influencer relationship management, as well as strategic initiatives.
-
-![Hasnat Malik, Lead Technical Project Manager at Ferrum Network](../../.gitbook/assets/Muhammad-Hasnat-Malik.png)
-
-****[**Hasnat Malik**](https://www.linkedin.com/in/hasnat-malik/)**, Lead Technical Project Manager at Ferrum Network**
-
-Hasnat Malik is - detail to be added
