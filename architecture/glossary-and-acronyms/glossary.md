@@ -14,5 +14,5 @@ General-Purpose Blockchains are generally touring complete blockchains that are 
 
 ### **Purpose-Built Blockchains**
 
-These blockchains are typically built to solve a specific problem. Also known as application-specific blockchains. Some examples are Algorand which is a blockchain dedicated to the financial settlement of assets. Cudos is a blockchain dedicated to solving the problem of decentralized cloud computing services. See General-Purpose Blockchains for contrast in approach between Purpose-Built and General Purpose blockchains.
+These blockchains are typically built to solve a specific problem. Also known as application-specific blockchains. Some examples are Algorand which is a blockchain dedicated to the financial settlement of assets. Cudos is a blockchain dedicated to solving the problem of decentralized cloud computing services. See [General-Purpose Blockchains](glossary.md#general-purpose-blockchains) for contrast in approach between Purpose-Built and General Purpose blockchains.
 
