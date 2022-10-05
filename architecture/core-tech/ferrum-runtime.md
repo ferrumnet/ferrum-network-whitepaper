@@ -26,7 +26,13 @@ Polkadot set out to build a multi-chain world with their [_HETEROGENEOUS MULTI-C
 
 #### Why Reinvent The Wheel - Early Chain Attacks
 
-Text Early Chain Attacks
+> An attacker could double-spend through a "51% attack" in which the attacker amasses a majority of the hashrate on the target cryptocurrency.
+>
+> Reference: [MIT Media Lab](https://dci.mit.edu/51-attacks)
+
+Newer blockchains are more susceptible to 51% attacks as it's cheaper and typically easier to acquire enough tokens to control over 50% of the blockchain's hashrate. Other consensus mechanisms have sought to solve this problem. However, Polkadot's solution is novel and unique in the sense that they have virtually eliminated the likely hood of a 51% attack from parachains by introducing the concept of [_**shared security**_](https://wiki.polkadot.network/docs/learn-architecture#shared-security)_._ Through this novel concept, parachains are able to rely on the security of the Polkadot or Kusama relay chains and their validators instead of amassing or relying on their own validator/miner network. This means even new parachains benefit from the security of an established Polkadot and Kusama relay chain.&#x20;
+
+This security advantage was another major factor in our decision to build Ferrum in the DotSama ecosystem.
 
 #### Substrate
 
