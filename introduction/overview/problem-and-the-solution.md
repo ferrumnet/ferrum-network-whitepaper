@@ -82,19 +82,23 @@ Ferrum is introducing the BIS and BIP mechanisms to solve this problem and bring
 
 ### Purpose-built chains vs general purpose
 
+Since the inception of the Ethereum Virtual Machine, there has been an overwhelming interest in creating general-purpose blockchains. Most of these chains hope to solve the problems of scalability faced by Ethereum. With crypto hype in the bull market, these chains gained a ton of traction and built treasuries to continue development for some time. However, with hundreds of general purpose blockchains in the market, and thousands more that failed, it's become abundantly clear that general purpose chains are no longer the way of the future. Polkadot, Ethereum, Polygon, BSC, and other major players have cornered this space.&#x20;
 
+This leads us to the next wave in blockchain development, purpose-built blockchains. These chains are being developed to solve a specific problem. From decentralized computing resources and storage to the financial settlement of assets between crypto and fiat worlds. Chains like Algorand are dedicated to financial settlement while chains like Cudos are dedicated to solving the decentralized cloud computing problem.
+
+In the future, the web3 world will work similarly to how system design works in the web2 world today. For example, when designing web2 applications, we start defining the requirements of the application first, then determine the best systems to realize those functional and non-functional requirements. We don't restrict our application requirements based on the underlying systems for computing, storage, and settlement services.&#x20;
+
+Building solutions in today's blockchains is analogous to restricting your application features by the limitations of the underlying systems that will power them. So if you are building on Ethereum, you are automatically limited to processing transactions per the Ethereum block time of about 10 to 20 seconds per block. Building an application that needs to process thousands of transactions per second is out of the question with such limitations. So your options are limited to working with a network with faster block times, such as BSC with an average block time of 3 seconds. What if you like Ethereum's security better, but need the speed of BSC? In the web2 world, we are able to cherry-pick solutions to fit these exact needs. For example, you can use AWS for cloud computing, hosting, load balancing, Stripe for payment settlement, and a slew of other solutions for specific use cases of your application. The web3 world falls short in this area.&#x20;
+
+> Although purpose-built blockchains are the future, they cannot succeed without a scalable, secure, stable, and easy-to-deploy interoperability layer with standardized integration procedures.
+>
+> _**Taha Abbasi, CTO at Ferrum Network**_
+>
+> [Click to Tweet](https://ctt.ac/Eld3q)
 
 ### Our interoperability solution
 
-
-
-### Removing Barriers to Mass Adoption of Crypto
-
-Ferrum Network is designed to remove barriers to the mass adoption of crypto and the underlying technologies that power the industry. Ferrum Network was born in the bear market to provide solutions that provide tremendous value regardless of the market cycle to projects operating across networks.&#x20;
-
-### Ferrum Network Origins and Why the Name Ferrum
-
-The name Ferrum is the Latin term for Iron. We chose the name Ferrum due to Iron's ability to fuse with and form a limitless variety of materials essential for the sustenance of life itself. We feel our mission is homogeneous to these characteristics of element 26. At Ferrum Network, we are building solutions that conform to various complex protocols, many of which have nothing in common except for their interoperability with Ferrum Network.
+At Ferrum Network, we are building solutions that conform to various complex protocols, many of which have nothing in common except for their interoperability with Ferrum Network.
 
 ### Interoperability by Design
 
@@ -113,12 +117,4 @@ As a developer, you no longer need to figure out architectural problems that com
 Build the core solution on Ferrum Network and leave the complexity of seamless multi-chain integration to the underlying technology. Ferrum Network lets you implement interactions that enable the multi-chain transfer of value, data, and functional components. All of this is compiled and presented to the end-users in a seamless experience.
 
 Ferrum Network's sophisticated interoperability protocols allow you to engage audiences across the spectrum regardless of their core stack, consensus mechanism, or runtime environment. As a developer, you can accomplish this without having to learn about the nuances of deploying your dApp or game on each of these individual networks. Gain mastery over one protocol, Ferrum Network, and access every network where your audience natively engages.
-
-## Old
-
-The name Ferrum is the Latin term for Iron. We chose the name Ferrum due to Iron's ability to fuse with and form a limitless variety of materials essential for the sustenance of life itself. We feel our mission is homogeneous to these characteristics of element 26.  At Ferrum Network we are building solutions that conform to a variety of complex protocols, many of which have nothing in common except for their interoperability with Ferrum Network.
-
-Teams building solutions today are regularly forced to compromise on the benefits of a truly multi-network ecosystem. Even projects that have deployed their token, and dApps on multiple networks continue to have a siloed experience for their community, holders, and development process.
-
-Polkadot's architecture of a primary relay chain with interconnected parachains solves the infrastructure side of this problem for those within the Polkadot ecosystem. However, for everyone else not part of the Polkadot ecosystem, there is still no viable solution. Ferrum Network is able to solve the problem of interoperability of value and data for any network, including parachains, EVM compatible networks, non-EVM compatible networks, or any other variation in the future.
 
