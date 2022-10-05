@@ -22,7 +22,7 @@ The value proposition and use case for Ferrum's mainnet has evolved since Ferrum
 
 #### Mission Alignment
 
-Text
+Polkadot set out to build a multi-chain world with their [_HETEROGENEOUS MULTI-CHAIN FRAMEWORK_](https://polkadot.network/PolkaDotPaper.pdf)_._ Ferrum is a strong believer and proponent of Polkadot's bet against chain maximalism. We feel that Ferrum's mission aligns perfectly with Polkadot's core ethos. We also believe that the DotSama community is ideally suited to undertake the task of creating, adopting, and standardizing interoperability across chains. For these reasons, we feel the DotSama ecosystem is the ideal and nurturing environment for the inception and growth of Ferrum's blockchains.
 
 #### Why Reinvent The Wheel - Early Chain Attacks
 
