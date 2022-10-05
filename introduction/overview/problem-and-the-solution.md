@@ -66,7 +66,19 @@ Ethereum brought this focus to web3 with its mission to create a touring complet
 
 ### Why decentralization doesn't stand a chance unless interoperability is normalized
 
+The absence of interoperability standards for development will continue to serve as one of the biggest obstacles to true decentralization in a multi-chain world. We are seeing significant interest and resource allocation by builders, investors, and communities toward building multi-chain infrastructure and solutions. Each builder is utilizing its own approach to solve the interoperability problem. From off-chain workers and permissioned relay chains to plasma and side chains. The solutions and interoperability protocols, data structures, APIs, libraries, and methodologies vary across each of them.&#x20;
 
+This is a natural occurrence, and perhaps it warrants encouragement as such a fluid approach favors speed and innovation over rigid structures. However, when everyone keeps creating new standards, these chains are unable to actually communicate with each other in a meaningful way without having to reinvent the wheel every time you want to build a multi-chain solution.
+
+Ferrum is introducing the BIS and BIP mechanisms to solve this problem and bring standardization to blockchain interoperability.
+
+{% content-ref url="../../architecture/standards/bis-blockchain-interoperability-standards.md" %}
+[bis-blockchain-interoperability-standards.md](../../architecture/standards/bis-blockchain-interoperability-standards.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../architecture/standards/bip-blockchain-interoperability-proposals.md" %}
+[bip-blockchain-interoperability-proposals.md](../../architecture/standards/bip-blockchain-interoperability-proposals.md)
+{% endcontent-ref %}
 
 ### Purpose-built chains vs general purpose
 

@@ -12,6 +12,9 @@
 
 ## 🛠 Architecture
 
+* [Standards](architecture/standards/README.md)
+  * [⚖ BIS - Blockchain Interoperability Standards](architecture/standards/bis-blockchain-interoperability-standards.md)
+  * [📝 BIP - Blockchain Interoperability Proposals](architecture/standards/bip-blockchain-interoperability-proposals.md)
 * [Core Tech](architecture/core-tech/README.md)
   * [Ferrum Runtime](architecture/core-tech/ferrum-runtime.md)
   * [Substrate System](architecture/core-tech/substrate-system.md)
