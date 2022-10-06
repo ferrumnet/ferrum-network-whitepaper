@@ -1,4 +1,4 @@
-# Why Polkadot?
+# ❓ Why Polkadot?
 
 ### Joining Polkadot’s Bet Against Blockchain Maximalism
 

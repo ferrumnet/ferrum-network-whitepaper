@@ -1,4 +1,4 @@
-# Market Opportunity
+# 🌎 Market Opportunity
 
 > Logarithmic scale analysis of the entire bitcoin and crypto market, based on data from the past decade, point to the potential for the sum of all digital assets to reach a valuation of $11 trillion by 2023.
 >

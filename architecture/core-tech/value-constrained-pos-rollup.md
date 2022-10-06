@@ -1,3 +1,3 @@
-# Value Constrained PoS Rollup
+# ⚖ Value Constrained PoS Rollup
 
 P

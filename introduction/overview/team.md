@@ -1,4 +1,4 @@
-# Team
+# 👥 Team
 
 ### Battle Tested, Resilient & Adaptive
 

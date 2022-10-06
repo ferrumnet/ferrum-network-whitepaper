@@ -4,7 +4,7 @@ description: >-
   every blockchain in the industry.
 ---
 
-# Ferrum Network Mission
+# 🏁 Ferrum Network Mission
 
 ### Removing Barriers to Mass Adoption of Crypto
 

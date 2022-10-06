@@ -5,7 +5,7 @@ description: >-
   amplifying the impact of Layer 1 and Layer 2 chains.
 ---
 
-# Problem and the Solution
+# ⚖ Problem and the Solution
 
 ### A Commitment To Fight For Decentralized World
 

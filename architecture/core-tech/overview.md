@@ -26,4 +26,6 @@ Ferrum Network is a Turing complete blockchain with a smart contract-enabled pla
 
 We have made significant efforts to simplify our implementation ensuring easy extensibility and further development of the network itself as well as deployment of dApps and solutions on the network.
 
+<img src="../../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
+
 Before we get into the details of our core tech, let's explore why we decided to build Ferrum in the DotaSama ecosystem.
