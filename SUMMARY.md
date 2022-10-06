@@ -4,20 +4,20 @@
 
 ## 👋 Introduction
 
-* [📝 Overview](introduction/overview/README.md)
-  * [Ferrum Network Mission](introduction/overview/the-ferrum-network-mission.md)
-  * [Market Opportunity](introduction/overview/market-opportunity.md)
-  * [Problem and the Solution](introduction/overview/problem-and-the-solution.md)
-  * [Team](introduction/overview/team.md)
+* [📐 Overview](introduction/overview/README.md)
+  * [🏁 Ferrum Network Mission](introduction/overview/the-ferrum-network-mission.md)
+  * [🌎 Market Opportunity](introduction/overview/market-opportunity.md)
+  * [⚖ Problem and the Solution](introduction/overview/problem-and-the-solution.md)
+  * [👥 Team](introduction/overview/team.md)
 
 ## 🛠 Architecture
 
-* [Standards](architecture/standards/README.md)
+* [🧱 Standards](architecture/standards/README.md)
   * [⚖ BIS - Blockchain Interoperability Standards](architecture/standards/bis-blockchain-interoperability-standards.md)
   * [📝 BIP - Blockchain Interoperability Proposals](architecture/standards/bip-blockchain-interoperability-proposals.md)
-* [Core Tech](architecture/core-tech/README.md)
-  * [Overview](architecture/core-tech/overview.md)
-  * [Why Polkadot?](architecture/core-tech/why-polkadot.md)
+* [⚒ Core Tech](architecture/core-tech/README.md)
+  * [📐 Overview](architecture/core-tech/overview.md)
+  * [❓ Why Polkadot?](architecture/core-tech/why-polkadot.md)
   * [Ferrum Runtime](architecture/core-tech/ferrum-runtime.md)
   * [Substrate Framework](architecture/core-tech/substrate-framework.md)
   * [Value Constrained PoS Rollup](architecture/core-tech/value-constrained-pos-rollup.md)
