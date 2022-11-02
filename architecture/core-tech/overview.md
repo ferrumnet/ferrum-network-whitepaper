@@ -41,7 +41,7 @@ Both of these options come with a heave time and capital cost resulting with wea
 >
 > [Click to Tweet](https://ctt.ac/3k4vK)
 
-With Ferrum Network developers are only required to learn one language if they wish to customize the deployment implementations. In most cases, developers can utilize Ferrum Network's tooling to deploy from their native chain using the programming language they are most familiar with, Ferrum network takes care of the grunt work in the background through it's integration infrastructure. The contrast in effort can be seen in the two illustrations below.
+With Ferrum Network developers are only required to learn one language if they wish to customize the deployment implementations. In most cases, developers can utilize Ferrum Network's tooling to deploy from their native chain using the programming language they are most familiar with, Ferrum network takes care of the grunt work in the background through its integration infrastructure. The contrast in effort can be seen in the two illustrations below.
 
 #### 🚨 Deploying a MultiChain dApp without Ferrum Network
 
