@@ -1,0 +1,2 @@
+# 📝 Quantum Portal - Validator
+
