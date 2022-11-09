@@ -30,8 +30,8 @@ Quantum Portal Smart Contracts are deployed on each integrated chain and serve a
 
 Learn more about Quantum Portal Smart Contracts (QPSC) on the dedicated page linked below.
 
-{% content-ref url="quantum-portal-smart-contracts.md" %}
-[quantum-portal-smart-contracts.md](quantum-portal-smart-contracts.md)
+{% content-ref url="quantum-portal-smart-contracts-qpsc.md" %}
+[quantum-portal-smart-contracts-qpsc.md](quantum-portal-smart-contracts-qpsc.md)
 {% endcontent-ref %}
 
 ## Quantum Portal MultiChain Explorer (QPME)
