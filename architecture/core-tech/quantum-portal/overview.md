@@ -16,17 +16,17 @@ Let's explore each of these components in some detail.
 
 A Quantum Portal Node is essentially a Ferrum Network configured as a Quantum Portal miner or validator. There are different requirements to run a QP Miner or QP Validator node. These are covered in the linked pages below. Depending on how the Quantum Portal Node is configured, it will interact with either the [Quantum Portal Smart Contracts](overview.md#quantum-portal-smart-contracts) to mine Quantum Portal Blocks or with the mined blocks and Quantum Portal Smart Contracts to finalize mined blocks.
 
-{% content-ref url="quantum-portal-miner.md" %}
-[quantum-portal-miner.md](quantum-portal-miner.md)
+{% content-ref url="quantum-portal-miner-qpm.md" %}
+[quantum-portal-miner-qpm.md](quantum-portal-miner-qpm.md)
 {% endcontent-ref %}
 
-{% content-ref url="quantum-portal-validator.md" %}
-[quantum-portal-validator.md](quantum-portal-validator.md)
+{% content-ref url="quantum-portal-validator-qpv.md" %}
+[quantum-portal-validator-qpv.md](quantum-portal-validator-qpv.md)
 {% endcontent-ref %}
 
 ## Quantum Portal Smart Contracts (QPSC)
 
-Quantum Portal Smart Contracts are deployed on each integrated chain and serve as the client-side interface for interacting with the [Quantum Portal Nodes](overview.md#quantum-portal-node) to execute any MultiChain transaction or query. Additionally, QPSCs provide the data necessary for [QP Miners](quantum-portal-miner.md) to create and mine [QP Blocks](quantum-portal-block.md) and provide a mechanism for [QP Validators](quantum-portal-validator.md) to finalize mined QP Blocks.
+Quantum Portal Smart Contracts are deployed on each integrated chain and serve as the client-side interface for interacting with the [Quantum Portal Nodes](overview.md#quantum-portal-node) to execute any MultiChain transaction or query. Additionally, QPSCs provide the data necessary for [QP Miners](quantum-portal-miner-qpm.md) to create and mine [QP Blocks](quantum-portal-block.md) and provide a mechanism for [QP Validators](quantum-portal-validator-qpv.md) to finalize mined QP Blocks.
 
 Learn more about Quantum Portal Smart Contracts (QPSC) on the dedicated page linked below.
 
