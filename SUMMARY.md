@@ -26,7 +26,7 @@
     * [⛏ Quantum Portal Miner (QPM)](architecture/core-tech/quantum-portal/quantum-portal-miner-qpm.md)
     * [📝 Quantum Portal Validator (QPV)](architecture/core-tech/quantum-portal/quantum-portal-validator-qpv.md)
     * [⚙ Quantum Portal Smart Contracts (QPSC)](architecture/core-tech/quantum-portal/quantum-portal-smart-contracts-qpsc.md)
-    * [🧱 Quantum Portal Block](architecture/core-tech/quantum-portal/quantum-portal-block.md)
+    * [🧱 Quantum Portal Blocks (QPB)](architecture/core-tech/quantum-portal/quantum-portal-blocks-qpb.md)
     * [🔍 Quantum Portal MultiChain Explorer](architecture/core-tech/quantum-portal/quantum-portal-multichain-explorer.md)
   * [⚖ Value Constrained PoS Rollup](architecture/core-tech/value-constrained-pos-rollup.md)
   * [👥 Multi-Chain Validators](architecture/core-tech/multi-chain-validators.md)
