@@ -45,10 +45,10 @@ With Ferrum Network developers are only required to learn one language if they w
 
 #### 🚨 Deploying a MultiChain dApp without Ferrum Network
 
-<img src="../../.gitbook/assets/file.drawing (1).svg" alt="Deploying a MultiChain dApp without Ferrum Network" class="gitbook-drawing">
+<figure><img src="../../.gitbook/assets/Deploying a multichain dapp without ferrum network v6 - Taha Abbasi.png" alt=""><figcaption><p>Deploying a MultiChain dApp without Ferrum Network</p></figcaption></figure>
 
 #### 🎉 Deploying a MultiChain dApp with Ferrum Network
 
-<img src="../../.gitbook/assets/file.drawing.svg" alt="Deploying a MultiChain dApp with Ferrum Network" class="gitbook-drawing">
+<figure><img src="../../.gitbook/assets/deploying a MultiChain dApp with Ferrum NetworkV2 - Taha Abbasi.png" alt=""><figcaption><p>Deploying a MultiChain dApp with Ferrum Network</p></figcaption></figure>
 
 Before we get into the details of our core tech, let's explore why we decided to build Ferrum in the DotaSama ecosystem.
