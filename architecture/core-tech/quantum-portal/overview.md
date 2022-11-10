@@ -38,6 +38,6 @@ Learn more about Quantum Portal Smart Contracts (QPSC) on the dedicated page lin
 
 The Quantum Portal MultiChain Explorer provides an interface that brings together information from various components of the Quantum Portal infrastructure, including Quantum Portal Smart Contracts, Quantum Portal Nodes, and MultiChain transactional data. Learn more about the details of QPME on the dedicated page linked below.
 
-{% content-ref url="quantum-portal-multichain-explorer.md" %}
-[quantum-portal-multichain-explorer.md](quantum-portal-multichain-explorer.md)
+{% content-ref url="quantum-portal-multichain-explorer-qpme.md" %}
+[quantum-portal-multichain-explorer-qpme.md](quantum-portal-multichain-explorer-qpme.md)
 {% endcontent-ref %}
