@@ -14,9 +14,9 @@ A minedQPB is made up of a pair of networks i.e. each block requires a source an
 For example, when a QPM is configured to mine Ethereum `sourceChain` transactions, both of the following conditions can be true:
 
 1. A transaction with the `sourceChain` of Ethereum and `destinationChain` of BSC;\
-   ETH <--> BSC can have minedQPB #1.&#x20;
+   ETH <--> BSC can have minedQPB #1 (ETH<-->BSC).&#x20;
 2. Another transaction with the `sourceChain` of Ethereum and `destinationChain` of Polygon;\
-   ETH <--> Polygon can have minedQPB #1 as well.
+   ETH <--> Polygon can have minedQPB #1 (ETH<-->Polygon) as well.
 
 These numbers are incremented independently as minedQPBs are chain-specific, not chain-agnostic.
 
@@ -26,13 +26,11 @@ Finalized Quantum Portal Blocks are created & finalized by [Quantum Portal Valid
 
 A finalizedQPB is also made up of a pair of networks i.e. each block requires a source and destination network. Similar to minedQPBs, the block numbers for finalizedQPBs are also incremented independently on each network.&#x20;
 
-## ~~Ran out of time, need to work on this . . .~~&#x20;
+For example, when a QPV finalizes minedQPBs both of the following conditions can be true:
 
-For example, when a QPM is configured to mine Ethereum `sourceChain` transactions, both of the following conditions can be true:
+1. A minedQPB with the `sourceChain` of Ethereum and `destinationChain` of BSC;\
+   ETH <--> BSC with a minedQPB #1 (ETH<-->BSC) can have finalizedQPB #1 (ETH<-->BSC).
+2. Another minedQPB with the `sourceChain` of Ethereum and `destinationChain` of Polygon;\
+   ETH <--> Polygon with minedQPB #1 (ETH<-->Polygon) can have finalizedQPB #1 (ETH<-->Polygon) as well.
 
-1. A transaction with the `sourceChain` of Ethereum and `destinationChain` of BSC;\
-   ETH <--> BSC can have minedQPB #1.&#x20;
-2. Another transaction with the `sourceChain` of Ethereum and `destinationChain` of Polygon;\
-   ETH <--> Polygon can have minedQPB #1 as well.
-
-These numbers are incremented independently as minedQPBs are chain-specific, not chain-agnostic.
+finalizedQPB numbers are incremented independently as finalizedQPBs are chain-specific, not chain-agnostic, similar to minedQPBs.
