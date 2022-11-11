@@ -1,20 +1,18 @@
 # Token Utility
 
-###
-
-### Transactions paid in FRM&#x20;
+## Transactions paid in FRM&#x20;
 
 Each transaction on Ferrum Network will require some gas (determined per transaction) to be paid. The gas fees on Ferrum Network will be paid in FRM. Additionally, Quantum portal transactions will also be paid in FRM. These transactions will occur on every single integrated network and can occur simultaneously as transactions are executed on different network pairs. This increases the potential volume of transactions that will ultimately be paid for using FRM.&#x20;
 
-### Quantum Portal Miner (QPM) Requirements&#x20;
+## Quantum Portal Miner (QPM) Requirements&#x20;
 
 In order to run a QPM, users will need to own and stake 250,000 FRM. FRM will be disproportionately burned as rewards are generated for miners. The degree to which tokens will be burned will be significantly higher during the infancy of the network and will decrease as the network gains adoption.
 
-### Quantum Portal Validator (QPV) Requirements
+## Quantum Portal Validator (QPV) Requirements
 
 In order to run a QPV, users will need to own and stake 2,500,000 FRM. FRM will be disproportionately burned as rewards are generated for validators. The degree to which tokens will be burned will be significantly higher during the infancy of the network and will decrease as the network gains adoption.
 
-### On-Chain Governance
+## On-Chain Governance
 
 FRM will serve as the governance token for the Ferrum Network. FRM holders will have the opportunity to vote on referenda that includes anything from chain upgrades to feature requests to the distribution of treasury funds for items such as grants programs.&#x20;
 
