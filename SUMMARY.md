@@ -28,7 +28,7 @@
     * [⚙ Quantum Portal Smart Contracts (QPSC)](architecture/core-tech/quantum-portal/quantum-portal-smart-contracts-qpsc.md)
     * [🧱 Quantum Portal Blocks (QPB)](architecture/core-tech/quantum-portal/quantum-portal-blocks-qpb.md)
     * [🔍 Quantum Portal MultiChain Explorer (QPME)](architecture/core-tech/quantum-portal/quantum-portal-multichain-explorer-qpme.md)
-  * [⚖ Value Constrained PoS Rollup](architecture/core-tech/value-constrained-pos-rollup.md)
+  * [⚖ Value-Constrained PoS Rollup (VCPR)](architecture/core-tech/value-constrained-pos-rollup-vcpr.md)
   * [👥 Multi-Chain Validators](architecture/core-tech/multi-chain-validators.md)
 * [Security](architecture/security/README.md)
   * [Securing the Network](architecture/security/securing-the-network.md)
