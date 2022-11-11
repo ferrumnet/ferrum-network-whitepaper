@@ -2,7 +2,7 @@
 
 ## Overview
 
-Value-Constrained PoS Rollups are invented by the founder of Ferrum Network. Much like Optimistic and ZK Rollups, value-constrained PoS Rollups use the security of the underlying chains. The value constraints are enforced by the L1 chain. (e.g. Ethereum)
+Value-Constrained PoS Rollups are invented by [Naiem Yeganeh](https://app.gitbook.com/u/rJ7jDJJY9khFwQtRT8XsXqTe8Tn1 "mention"), the founder of Ferrum Network. Much like Optimistic and ZK Rollups, value-constrained PoS Rollups use the security of the underlying chains. The value constraints are enforced by the L1 chain. (e.g. Ethereum)
 
 The value is received from the L1 chain oracles (e.g. Uniswap on-chain pricing oracle).
 
