@@ -29,7 +29,7 @@
     * [🧱 Quantum Portal Blocks (QPB)](architecture/core-tech/quantum-portal/quantum-portal-blocks-qpb.md)
     * [🔍 Quantum Portal MultiChain Explorer (QPME)](architecture/core-tech/quantum-portal/quantum-portal-multichain-explorer-qpme.md)
   * [⚖ Value-Constrained PoS Rollup (VCPR)](architecture/core-tech/value-constrained-pos-rollup-vcpr.md)
-  * [👥 Multi-Chain Validators](architecture/core-tech/multi-chain-validators.md)
+  * [👥 Multi-Chain Validators Staking](architecture/core-tech/multi-chain-validators-staking.md)
 * [Security](architecture/security/README.md)
   * [Securing the Network](architecture/security/securing-the-network.md)
   * [Securing the Rollup](architecture/security/securing-the-rollup.md)
