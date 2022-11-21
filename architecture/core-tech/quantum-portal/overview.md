@@ -10,6 +10,8 @@ Quantum Portal includes the following core components:
 
 <img src="../../../.gitbook/assets/file.drawing (1).svg" alt="Quantum Portal Overview Flow" class="gitbook-drawing">
 
+<figure><img src="../../../.gitbook/assets/Quantum Portal is part of the Ferrum Runtime Node. v3 - Taha Abbasi.png" alt=""><figcaption><p>Quantum Portal Overview Flow</p></figcaption></figure>
+
 Let's explore each of these components in some detail.
 
 ## Quantum Portal Node (QPN)
