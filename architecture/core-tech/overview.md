@@ -53,6 +53,6 @@ With Ferrum Network developers are only required to learn one language if they w
 
 #### 🎉 Deploying a Multichain dApp with Ferrum Network
 
-<figure><img src="../../.gitbook/assets/deploying a MultiChain dApp with Ferrum NetworkV2 - Taha Abbasi.png" alt=""><figcaption><p>Deploying a MultiChain dApp with Ferrum Network</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/deploying a MultiChain dApp with Ferrum Network - Taha Abbasi.png" alt=""><figcaption><p>Deploying a MultiChain dApp with Ferrum Network</p></figcaption></figure>
 
 Before we get into the details of our core tech, let's explore why we decided to build the Ferrum Network in the DotSama ecosystem.
