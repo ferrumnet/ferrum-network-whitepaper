@@ -12,6 +12,10 @@ The value proposition and use case for Ferrum's mainnet has evolved since Ferrum
 
 Ferrum mainnet is developed in [_RUST_](https://www.rust-lang.org/) using the [Substrate Framework](https://substrate.io/). Ferrum Network will be deployed as a parachain on the Polkadot Relay chain after securing a parachain slot through the [Polkadot Parachain Auction process](https://parachains.info/auctions). The following components make up the core tech behind Ferrum Network
 
+{% hint style="warning" %}
+Ferrum will begin the process by securing a Kusama parachain slot. After refining our core features on Kusama we will deploy the Polkadot parachain.
+{% endhint %}
+
 1. The Chain
 2. RUST programming language
 3. Substrate Framework
