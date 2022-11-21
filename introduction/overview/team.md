@@ -40,8 +40,6 @@ Taha founded a successful software firm and led engineering teams who helped con
 
 Nick is a serial networker. From being heavily involved in the music industry, working with Grammy award winning artists, to leading field operations divisions for companies, Nick has extensive experience in areas related to strategic partnerships and relationship management, as well as strategic initiatives.
 
-Nick is a serial networker. From being heavily involved in the music industry, working with Grammy award winning artists, to leading field operations divisions for companies, Nick has extensive experience in areas related to strategic partnerships and relationship management, as well as strategic initiatives.
-
 Nick Odio has been instrumental in Ferrum's growth. Nick has formed integral partnerships and helped Ferrum establish a presence by garnering interest and backing from industry leaders in the form of grants, partnerships, and capital interest. Nick continues to demonstrate an exceptional ability to stay attuned to cutting-edge innovations in crypto, providing valuable insight to the Ferrum Executive team and leadership regarding our strategic direction forward.
 
 <figure><img src="../../.gitbook/assets/Nichell-Logue.png" alt=""><figcaption><p>Nichell Logue, EVP Operations at <a href="https://ferrum.network/">Ferrum Network</a></p></figcaption></figure>
