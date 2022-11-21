@@ -20,11 +20,11 @@ Naiem also founded Maad Afrooz Technology and has worked for the big tech compan
 
 Ian Friend is another co-founder of Ferrum Network. He has a degree in business law from the New York Law School and was an associate attorney for several big firms, including Pantano & Gupta and Wilson Elser.
 
-Ian also serves as a strategic advisor for Poolz and Project Inverse. Since 2018, he has left his active duties as an attorney and turned his full attention toward the Ferrum Network.
+Ian has served as a strategic advisor for a multitude of projects across Web3. Since 2018, he has left his active duties as an attorney and turned his full attention toward the Ferrum Network.
 
-Over the years, Ian has grown Ferrum's reach, and impact to new heights. Ian helped launch Ferrum's staking business which now serves as the staking technology powering over a 100 crypto projects. Ian successfully led the growth of this business to over 100 million ATH (All Time High) TVL (Total Value Locked).
+Over the years, Ian has grown Ferrum's reach, and impact to new heights. Ian helped launch Ferrum's staking business which now serves as the staking technology powering over a 100 crypto projects. Ian successfully led the growth of this business to a lifetime TVL (Total Value Locked) of nearly $500 million.
 
-Ian has also launched and successfully scaled the Ferrum Advisory Services Incubation division. Through this division, Ian and FAS have been instrumental in creating value of over $300 million in the space across metaverse, NFT, cross-chain and other crypto projects.
+Ian has also launched and successfully scaled the Ferrum Advisory Services (FAS) incubation division. Through this division, Ian and FAS have been instrumental in creating value of over $300 million in the space across metaverse, NFT, crosschain and other crypto projects.
 
 ![Taha Abbasi, CTO at Ferrum Network](../../.gitbook/assets/Taha-Abbasi-COO-Ferrum-Network-Cross-Chain-Token-Bridge-Staking-Anti-bot-Incubation-Defi.png)
 
@@ -38,7 +38,7 @@ Taha founded a successful software firm and led engineering teams who helped con
 
 ****[**Nick Odio**](https://www.linkedin.com/in/nick-odio-176991161/)**, Chief Growth Officer at Ferrum Network**
 
-Nick Odio is a serial networker. From being heavily involved in the music industry working with Grammy award-winning artists. Nick has personally recorded music for a few Grammy award-winning artists, including Rick Ross, Chris Brown, Scott Storch, and Mario. Additionally, Nick has extensive experience in areas related to strategic partnerships, entertainment and influencer relationship management, as well as strategic initiatives.
+Nick is a serial networker. From being heavily involved in the music industry, working with Grammy award winning artists, to leading field operations divisions for companies, Nick has extensive experience in areas related to strategic partnerships and relationship management, as well as strategic initiatives.
 
 Nick Odio has been instrumental in Ferrum's growth. Nick has formed integral partnerships and helped Ferrum establish a presence by garnering interest and backing from industry leaders in the form of grants, partnerships, and capital interest. Nick continues to demonstrate an exceptional ability to stay attuned to cutting-edge innovations in crypto, providing valuable insight to the Ferrum Executive team and leadership regarding our strategic direction forward.
 
