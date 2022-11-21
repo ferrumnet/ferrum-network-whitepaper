@@ -22,7 +22,7 @@ Ian Friend is another co-founder of Ferrum Network. He has a degree in business 
 
 Ian has served as a strategic advisor for a multitude of projects across Web3. Since 2018, he has left his active duties as an attorney and turned his full attention toward the Ferrum Network.
 
-Over the years, Ian has grown Ferrum's reach, and impact to new heights. Ian helped launch Ferrum's staking business which now serves as the staking technology powering over a 100 crypto projects. Ian successfully led the growth of this business to a lifetime TVL (Total Value Locked) of nearly $500 million.
+Over the years, Ian has grown Ferrum's reach, and impact to new heights. Ian helped launch Ferrum's staking business which now serves as the staking technology powering over 200 crypto projects. Ian successfully led the growth of this business to a lifetime TVL (Total Value Locked) of $500 million.
 
 Ian has also launched and successfully scaled the Ferrum Advisory Services (FAS) incubation division. Through this division, Ian and FAS have been instrumental in creating value of over $300 million in the space across metaverse, NFT, crosschain and other crypto projects.
 
@@ -37,6 +37,8 @@ Taha founded a successful software firm and led engineering teams who helped con
 ![Nick Odio, Chief Growth Officer at Ferrum Network](../../.gitbook/assets/Nick-Odio.png)
 
 ****[**Nick Odio**](https://www.linkedin.com/in/nick-odio-176991161/)**, Chief Growth Officer at Ferrum Network**
+
+Nick is a serial networker. From being heavily involved in the music industry, working with Grammy award winning artists, to leading field operations divisions for companies, Nick has extensive experience in areas related to strategic partnerships and relationship management, as well as strategic initiatives.
 
 Nick is a serial networker. From being heavily involved in the music industry, working with Grammy award winning artists, to leading field operations divisions for companies, Nick has extensive experience in areas related to strategic partnerships and relationship management, as well as strategic initiatives.
 
