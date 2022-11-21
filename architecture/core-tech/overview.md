@@ -49,7 +49,7 @@ With Ferrum Network developers are only required to learn one language if they w
 
 #### 🚨 Deploying a MultiChain dApp without Ferrum Network
 
-<figure><img src="../../.gitbook/assets/Deploying a multichain dapp without ferrum network v6 - Taha Abbasi.png" alt=""><figcaption><p>Deploying a MultiChain dApp without Ferrum Network</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Deploying a multichain dapp without ferrum network v7 - Taha Abbasi.png" alt=""><figcaption><p>Deploying a MultiChain dApp without Ferrum Network</p></figcaption></figure>
 
 #### 🎉 Deploying a Multichain dApp with Ferrum Network
 
