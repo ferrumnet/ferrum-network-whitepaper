@@ -2,11 +2,11 @@
 
 ### Battle Tested, Resilient & Adaptive
 
-Over the last 3 years we have built highly skilled and experienced team to lead the next phase of growth for Ferrum Network.&#x20;
+Over the last 3 years**,** we have built a highly skilled and experienced team to lead the next phase of growth for Ferrum Network.&#x20;
 
 Ferrum Network was founded by a team of experts with a long-standing professional history in engineering and blockchain technology.
 
-![Naiem Yeganeh, Founder at Ferrum Network](../../.gitbook/assets/Naiem-Yeganeh-PHD.png)
+<figure><img src="../../.gitbook/assets/Naiem-Yeganeh-PHD.png" alt=""><figcaption><p>Naiem Yeganeh, Founder at <a href="https://ferrum.network/">Ferrum Network</a></p></figcaption></figure>
 
 ****[**Naiem Yeganeh**](https://www.linkedin.com/in/naiem-yeganeh-12874712/)**, Founder at Ferrum Network**
 
@@ -14,7 +14,7 @@ Naiem Yeganeh is a co-founder and CEO of Ferrum Network. He graduated from the U
 
 Naiem also founded Maad Afrooz Technology and has worked for the big tech companies Microsoft and Amazon. His last position before founding Ferrum Network was as core machine learning expert for Bloomberg LP.
 
-![Ian Friend, Co-Founder at Ferrum Network](../../.gitbook/assets/Ian-M.-Friend-ESQ.png)
+<figure><img src="../../.gitbook/assets/Ian-M.-Friend-ESQ (1).png" alt=""><figcaption><p>an Friend, Co-Founder at <a href="https://ferrum.network/">Ferrum Network</a></p></figcaption></figure>
 
 ****[**Ian Friend**](https://www.linkedin.com/in/ian-friend-bb949657/)**, Co-Founder at Ferrum Network**
 
@@ -24,9 +24,9 @@ Ian has served as a strategic advisor for a multitude of projects across Web3. S
 
 Over the years, Ian has grown Ferrum's reach, and impact to new heights. Ian helped launch Ferrum's staking business which now serves as the staking technology powering over 200 crypto projects. Ian successfully led the growth of this business to a lifetime TVL (Total Value Locked) of $500 million.
 
-Ian has also launched and successfully scaled the Ferrum Advisory Services (FAS) incubation division. Through this division, Ian and FAS have been instrumental in creating value of over $300 million in the space across metaverse, NFT, crosschain and other crypto projects.
+Ian has also launched and successfully scaled the Ferrum Advisory Services (FAS) incubation division. Through this division, Ian and FAS have been instrumental in creating value of over $300 million in the space across metaverse, NFT, crosschain**,** and other crypto projects.
 
-![Taha Abbasi, CTO at Ferrum Network](../../.gitbook/assets/Taha-Abbasi-COO-Ferrum-Network-Cross-Chain-Token-Bridge-Staking-Anti-bot-Incubation-Defi.png)
+<figure><img src="../../.gitbook/assets/Taha-Abbasi.png" alt=""><figcaption><p>Taha Abbasi, CTO at <a href="https://ferrum.network/">Ferrum Network</a></p></figcaption></figure>
 
 ****[**Taha Abbasi**](https://www.linkedin.com/in/tahaabbasi/)**, CTO at Ferrum Network**
 
