@@ -24,7 +24,7 @@ This security advantage was another major factor in our decision to build Ferrum
 
 Even though utilizing the Substrate framework is more or less the default path when building in the DotSama ecosystem, we wanted to highlight the importance of utilizing substrate. There is something to be said about creating a new language that solves specific problems. We've seen this time and again in the past from the creation of C, C#, Java, Python, PHP, and most recently Ruby on Rails, NodeJs, Go, and many more.&#x20;
 
-In the web3 world, the predominant language has been Solidity with RUST picking up traction over the years. Utilizing an existing, well-established language like RUST and a framework like Substrate with an active community of contributors and developers removes unnecessary friction from the adoption of a network. More regarding Substrate and our reasoning for building with this framework can be found in the Substrate Framework section.
+In the Web3 world, the predominant language has been Solidity with RUST picking up traction over the years. Utilizing an existing, well-established language like RUST and a framework like Substrate with an active community of contributors and developers removes unnecessary friction from the adoption of a network. More regarding Substrate and our reasoning for building with this framework can be found in the Substrate Framework section.
 
 {% content-ref url="substrate-framework.md" %}
 [substrate-framework.md](substrate-framework.md)
