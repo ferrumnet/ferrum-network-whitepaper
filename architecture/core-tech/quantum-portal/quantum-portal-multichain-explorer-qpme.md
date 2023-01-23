@@ -51,7 +51,7 @@ Block page (similar to etherscan, different fields). Block data can be read from
    1. Quantum Portal Validation dateTime (Quantum Portal)
 5. Transactions
    1. x transactions **| Clickable** in this block
-6. Block Reward: x FRMX
+6. Block Reward: x FRM
 
 ### Detailed Block View - Finalized _(Finalized Blocks)_
 
@@ -63,8 +63,8 @@ Block page (similar to etherscan, different fields). Block data can be read from
    1. Quantum Portal Validation dateTime (Quantum Portal)
 3. _Standard Blocks_
    1. x blocks **| Clickable** in this _finalized block_
-4. Finalized Block Reward: x FRMX TODO (Discuss if this is required / feasible)
-5. Accumulated Standard Block Reward: x FRMX Shows the sum of the block reward for all standard blocks within this finalized block
+4. Finalized Block Reward: x FRM TODO (Discuss if this is required / feasible)
+5. Accumulated Standard Block Reward: x FRM Shows the sum of the block reward for all standard blocks within this finalized block
 
 ### Detailed Transaction View
 
@@ -115,7 +115,7 @@ struct QuantumPortalTransaction {
    3. For
       1. Amount | Token Logo | Token Name | (Token Symbol)
 9. Transaction Fee
-   1. FRMx Fee
+   1. FRM Fee
    2. Network Logo | Gas Fee (Source Chain)
 10. Others
     1. Nonce
