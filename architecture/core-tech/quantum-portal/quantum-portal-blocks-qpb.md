@@ -7,7 +7,7 @@ There are two types of Quantum Portal Blocks.&#x20;
 
 ## Standard Quantum Portal Blocks (standardQPB)
 
-Standard Quantum Portal Blocks are created & mined by [Quantum Portal Miners](quantum-portal-miner-qpm.md) using on-chain data provided by the [Quantum Portal Smart Contract (QPSC)](quantum-portal-smart-contracts-qpsc.md) on the `sourceChain` and are configured to mine transactions.
+Standard Quantum Portal Blocks are created & mined by [Quantum Portal Miners](quantum-portal-miner-qpm.md) using on-chain data provided by the [Quantum Portal Smart Contract (QPSC)](quantum-portal-smart-contracts-qpsc.md) on the `sourceChain` that the QPM is configured to mine transactions.
 
 A standardQPB is made up of a pair of networks i.e. each block requires a source and destination network. The block numbers for standardQPBs are incremented independently on each network.&#x20;
 
