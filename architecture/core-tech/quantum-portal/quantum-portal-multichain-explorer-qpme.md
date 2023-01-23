@@ -1,10 +1,10 @@
-# 🔍 Quantum Portal MultiChain Explorer (QPME)
+# 🔍 Quantum Portal Multichain Explorer (QPME)
 
-The Quantum Portal MultiChain Explorer (QPME) brings together information from [Quantum Portal Smart Contracts](quantum-portal-smart-contracts-qpsc.md) deployed on multiple chains and provides the ability to interact with these contracts through the Ferrum Virtual Machine (FVM) and its Quantum Portal Node infrastructure.&#x20;
+The Quantum Portal Multichain Explorer (QPME) brings together information from [Quantum Portal Smart Contracts](quantum-portal-smart-contracts-qpsc.md) deployed on multiple chains and provides the ability to interact with these contracts through the Ferrum Virtual Machine (FVM) and its Quantum Portal Node infrastructure.&#x20;
 
-## A MultiChain Explorer - QPME
+## A Multichain Explorer - QPME
 
-QPME is a MultiChain explorer. This means it needs to display data for various chains, this data includes transactions, blocks, and QPME also needs to display the minedQPBs and finalizedQPBs for each chain.&#x20;
+QPME is a Multichain explorer. This means it needs to display data for various chains, this data includes transactions, blocks, and QPME also needs to display the minedQPBs and finalizedQPBs for each chain.&#x20;
 
 QPME is designed to help users easily search for transactions, addresses, blocks, tokens, and more with the following available search parameters.
 
@@ -133,11 +133,11 @@ struct QuantumPortalTransaction {
    1. Source Network Transaction is Successful
    2. QP Status - pending
 2. QP - Mined
-   1. When a QP transaction that was pending is picked up by a QP validator and mined in a standard block
+   1. When a QP transaction that was pending is picked up by a QP Validator and mined in a standard block
       1. The standard block is added to the transaction detail view
    2. QP Status - pending - mined
 3. QP - Finalized
-   1. When a QP standard block is picked up by QP Validator (TBD) and the standard blocks are finalized. A Finalized Block is generated and associated with all Standard Blocks in that pool.
+   1. When a QP standard block is picked up by QP Validator and the standard blocks are finalized. A Finalized Block is generated and associated with all Standard Blocks in that pool.
       1. The finalized block is added to the transaction detail view
    2. QP Status
       1. failed
