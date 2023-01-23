@@ -28,7 +28,7 @@ A Quantum Portal Node is essentially a Ferrum Network configured as a Quantum Po
 
 ## Quantum Portal Smart Contracts (QPSC)
 
-Quantum Portal Smart Contracts are deployed on each integrated chain and serve as the client-side interface for interacting with the [Quantum Portal Nodes](overview.md#quantum-portal-node) to execute any MultiChain transaction or query. Additionally, QPSCs provide the data necessary for [QP Miners](quantum-portal-miner-qpm.md) to create and mine [QP Blocks](quantum-portal-blocks-qpb.md) and provide a mechanism for [QP Validators](quantum-portal-validator-qpv.md) to finalize mined QP Blocks.
+Quantum Portal Smart Contracts are deployed on each integrated chain and serve as the client-side interface for interacting with the [Quantum Portal Nodes](overview.md#quantum-portal-node) to execute any multichain transaction or query. Additionally, QPSCs provide the data necessary for [QP Miners](quantum-portal-miner-qpm.md) to create and mine [QP Blocks](quantum-portal-blocks-qpb.md) and provide a mechanism for [QP Validators](quantum-portal-validator-qpv.md) to finalize mined QP Blocks.
 
 Learn more about Quantum Portal Smart Contracts (QPSC) on the dedicated page linked below.
 
@@ -36,9 +36,9 @@ Learn more about Quantum Portal Smart Contracts (QPSC) on the dedicated page lin
 [quantum-portal-smart-contracts-qpsc.md](quantum-portal-smart-contracts-qpsc.md)
 {% endcontent-ref %}
 
-## Quantum Portal MultiChain Explorer (QPME)
+## Quantum Portal Multichain Explorer (QPME)
 
-The Quantum Portal MultiChain Explorer provides an interface that brings together information from various components of the Quantum Portal infrastructure, including Quantum Portal Smart Contracts, Quantum Portal Nodes, and MultiChain transactional data. Learn more about the details of QPME on the dedicated page linked below.
+The Quantum Portal Multichain Explorer provides an interface that brings together information from various components of the Quantum Portal infrastructure, including Quantum Portal Smart Contracts, Quantum Portal Nodes, and multichain transactional data. Learn more about the details of QPME on the dedicated page linked below.
 
 {% content-ref url="quantum-portal-multichain-explorer-qpme.md" %}
 [quantum-portal-multichain-explorer-qpme.md](quantum-portal-multichain-explorer-qpme.md)
