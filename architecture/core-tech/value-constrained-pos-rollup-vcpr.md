@@ -26,7 +26,7 @@ ZK Rollups are cryptographically secure. Currently, it's hard to get them to wor
 
 ## Why not use ZK or Optimistic Rollups?
 
-We are building MultiChain Rollup. We need to keep rollup tech independent from the L1 implementation details and support EVM, non-EVM, as well as DotSama chains.
+We are building Multichain Rollup. We need to keep rollup tech independent from the L1 implementation details and support EVM, non-EVM, as well as DotSama chains.
 
 We need the full support of smart contracts on each integrated network.
 
@@ -38,7 +38,7 @@ For simple PoS Rollups, the value controlled can be larger than the value staked
 
 ## How does Value-Constrained PoS Rollup (VCPR) work?
 
-In Value-Constrained PoS Rollups, blocks are finalized as long as the sum of value transferred out from the source chain is less than the sum of stakes used to validate them.
+In Value-Constrained PoS Rollups, blocks are finalized as long as the sum of the value transferred away from the source chain is less than the sum of the value staked used to validate the block.
 
 For example, A block transfers out 2,000 USDT and is validated by a validator with a staked value of 10k. This block can be finalized. However, if a block transfers 2,000,000 USDT out from the source chain, it will only be finalized after enough validators have validated the blocks such that their staked sum value is more than 2,000,000. This value-constrained limitation ensures validators always have more value staked than the amount being validated. As discussed earlier, The value constraints are enforced by the underlying L1 chain, and the value is also received from the L1 chain oracles, eliminating reliance and the need for trust on the Rollups off-chain worker or relay infrastructure.
 
