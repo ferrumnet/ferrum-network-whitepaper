@@ -22,7 +22,7 @@ Secured by the roll-up validators, hence significantly less secure than the base
 
 ### ZK Rollup
 
-ZK Rollups are cryptographically secure. Currently, it's hard to get them to work with smart contracts, as the proof for the whole loop of value must be created and submitted to the base chain. However, providers like ZK, Polygon, and others have made some progress in this area.&#x20;
+ZK Rollups are cryptographically secure. Currently, it's hard to get them to work with smart contracts, as the proof for the whole loop of value must be created and submitted to the base chain. However, providers like [zkSync](https://zksync.io/), Polygon, and others have made some progress in this area.&#x20;
 
 ## Why not use ZK or Optimistic Rollups?
 
