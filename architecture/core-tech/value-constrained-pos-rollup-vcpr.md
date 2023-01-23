@@ -26,7 +26,7 @@ ZK Rollups are cryptographically secure. Currently, it's hard to get them to wor
 
 ## Why not use ZK or Optimistic Rollups?
 
-We are building Multichain Rollup. We need to keep rollup tech independent from the L1 implementation details and support EVM, non-EVM, as well as DotSama chains.
+We are building Multichain Rollup. To support EVM, non-EVM, as well as DotSama chains, we need to keep rollup tech independent from the L1 implementation details.
 
 We need the full support of smart contracts on each integrated network.
 
