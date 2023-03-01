@@ -1,5 +1,5 @@
 ---
-description: Version 0.5.0 | 04-October-2022
+description: Version 0.9.0 | 02-March-2023
 ---
 
 # Welcome to the Ferrum Network
