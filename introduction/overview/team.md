@@ -52,3 +52,4 @@ Nichell Logue brings decades of global operations as well as brand and asset pro
 
 ****[**Hasnat Malik**](https://www.linkedin.com/in/hasnat-malik/)**, Director of Projects at Ferrum Network**
 
+Hasnat Malik is a resourceful and professional individual who brings 12 years of experience with a proven ability to lead the development of new and innovative services, products & solutions within blockchain industry. He enjoys the challenge and diversity that any business face and strive to provide the best possible service, product or solutions. The customer service side of blockchain industry is what drives his passion for helping others achieve their goals and targets while ensuring a long term relationship. he is an excellent communicator who enjoys working in a team environment as well as using his own initiative.
