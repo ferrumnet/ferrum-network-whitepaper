@@ -46,9 +46,45 @@ We will know more regarding exactly how many tokens will be left in the reserve 
 Choosing how much transaction fees are to cost is another important consideration for any network. Transaction fees are mostly meant to cover the processing and long term storage cost of transactions. So there are a few items to consider when determining how to charge transaction fees.
 
 1. The size of the transaction. The larger the transaction, the more resources are needed to store and process it.
-2. A minimum payable fee. This fee needs to exist regardless of the size of the transaction. This is meant to prevent DDoS attacks by making such attacks prohibitively expensive, and eliminates the possibility of an attacker generating millions of small transactions to flood and crash the system.
+2. A minimum payable fee. This fee needs to exist regardless of the size of the transaction. This is meant to prevent DDoS attacks by making such attacks prohibitively expensive and eliminating the possibility of an attacker generating millions of small transactions to flood and crash the system.
 
 The parameters set in response to these items will ultimately be contingent on criteria such as current transaction volumes, hardware prices, and FRM valuation and should be subject to alteration by way of approving referenda via governance as a means of adapting to changes in the above criteria.
+
+To calculate the fees generated in one year:
+
+* We have a fixed transaction fee of 0.1 FRM for each transaction.
+* We have 100,000 transactions per day initially.
+* The transaction volume is increasing at a rate of 20% per month.
+
+To calculate the number of transactions in one year, we need to multiply the initial transaction volume by the number of days in a year:
+
+```sql
+Number of transactions in one year = 100,000 * 365 = 36,500,000
+```
+
+To calculate the fees generated in one year, we need to multiply the number of transactions in one year by the transaction fee:
+
+```sql
+Fees generated in one year = 36,500,000 * 0.01 = 3,650,000 FRM
+```
+
+However, the transaction volume is increasing at a rate of 20% per month. To account for this, we need to calculate the transaction volume for each month and then sum up the fees generated for each month. Here's the formula to calculate the transaction volume for each month:
+
+```csharp
+Transaction volume = 100,000 * (1 + 0.2)^n, where n is the number of months
+```
+
+To calculate the fees generated for each month, we need to multiply the transaction volume for that month by the transaction fee:
+
+```sql
+Fees generated for each month = Transaction volume * 0.1
+```
+
+We can then sum up the fees generated for each month to get the total fees generated in one year:
+
+```sql
+Total fees generated in one year = Fees generated for each month in month 1 + Fees generated for each month in month 2 + ... + Fees generated for each month in month 12
+```
 
 #### **How will Transaction Fees support QPMs, QPVs and the Treasury?**
 
