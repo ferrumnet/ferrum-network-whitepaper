@@ -48,10 +48,5 @@
 
 ## 🪙 Tokenomics
 
-* [Token Metrics](tokenomics/token-metrics.md)
 * [Token Utility](tokenomics/token-utility.md)
 * [Monetary Policy](tokenomics/monetary-policy.md)
-
-## 🏁 Milestones
-
-* [Page 1](milestones/page-1.md)
