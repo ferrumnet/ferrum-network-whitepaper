@@ -12,9 +12,6 @@
 
 ## 🛠 Architecture
 
-* [🧱 Standards](architecture/standards/README.md)
-  * [⚖ BIS - Blockchain Interoperability Standards](architecture/standards/bis-blockchain-interoperability-standards.md)
-  * [📝 BIP - Blockchain Interoperability Proposals](architecture/standards/bip-blockchain-interoperability-proposals.md)
 * [⚒ Core Tech](architecture/core-tech/README.md)
   * [📐 Overview](architecture/core-tech/overview.md)
   * [❓ Why Polkadot?](architecture/core-tech/why-polkadot.md)
@@ -31,6 +28,9 @@
     * [Ferrum Testnet Node](architecture/core-tech/quantum-portal/ferrum-testnet-node.md)
   * [⚖ Value-Constrained PoS Rollup (VCPR)](architecture/core-tech/value-constrained-pos-rollup-vcpr.md)
   * [👥 Multi-Chain Validators Staking](architecture/core-tech/multi-chain-validators-staking.md)
+* [🧱 Standards](architecture/standards/README.md)
+  * [⚖ BIS - Blockchain Interoperability Standards](architecture/standards/bis-blockchain-interoperability-standards.md)
+  * [📝 BIP - Blockchain Interoperability Proposals](architecture/standards/bip-blockchain-interoperability-proposals.md)
 * [Security](architecture/security/README.md)
   * [Securing the Network](architecture/security/securing-the-network.md)
   * [Securing the Rollup](architecture/security/securing-the-rollup.md)

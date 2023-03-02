@@ -4,7 +4,7 @@ description: Learn about the Ferrum Network Testnet Node and learn how to run th
 
 # Ferrum Testnet Node
 
-## Introduction
+Introduction
 
 Collators/Validators are members of the network that maintain the parachains they take part in. They run a full node (for both their particular parachain and the relay chain), and they produce the state transition proof for relay chain validators.
 
@@ -39,7 +39,7 @@ Quantum Portal includes the following core components:
 2. QP Miner
 3. QP Finalizer
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/How Quantum Portal works V1.png" alt=""><figcaption><p>Quantum Portal Overview Flow</p></figcaption></figure>
 
 ### What is Quantum Portal Mining?
 
