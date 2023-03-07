@@ -50,3 +50,4 @@
 
 * [Token Utility](tokenomics/token-utility.md)
 * [Monetary Policy](tokenomics/monetary-policy.md)
+* [Token Categories](tokenomics/token-categories.md)
