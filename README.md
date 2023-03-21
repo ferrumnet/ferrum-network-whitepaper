@@ -1,8 +1,15 @@
 ---
-description: Version 0.9.0 | 02-March-2023
+description: Version 0.10.0 | 27-March-2023
 ---
 
 # Welcome to the Ferrum Network
+
+| Role                   | Name                                                                               |
+| ---------------------- | ---------------------------------------------------------------------------------- |
+| Whitepaper Author      | [Taha Abbasi](https://app.gitbook.com/u/gngqK95qbHXrmheVARR1PeP3vJn1 "mention")    |
+| Whitepaper Contributor | [Nick Odio](https://app.gitbook.com/u/1KUyWdaa0YPrXYxtsHF8THw7tWG3 "mention")      |
+| Whitepaper Contributor | [Naiem Yeganeh](https://app.gitbook.com/u/rJ7jDJJY9khFwQtRT8XsXqTe8Tn1 "mention")  |
+| Whitepaper Contributor | [Stanly Johnson](https://app.gitbook.com/u/ptRBIz9ikMVCeJytYHYCXzmD7302 "mention") |
 
 ### Introducing the Ferrum Network – Interoperability by Design
 
