@@ -4,12 +4,12 @@ description: Version 0.10.0 | 27-March-2023
 
 # Welcome to the Ferrum Network
 
-| Role                   | Name                                                                               |
-| ---------------------- | ---------------------------------------------------------------------------------- |
-| Whitepaper Author      | [Taha Abbasi](https://app.gitbook.com/u/gngqK95qbHXrmheVARR1PeP3vJn1 "mention")    |
-| Whitepaper Contributor | [Nick Odio](https://app.gitbook.com/u/1KUyWdaa0YPrXYxtsHF8THw7tWG3 "mention")      |
-| Whitepaper Contributor | [Naiem Yeganeh](https://app.gitbook.com/u/rJ7jDJJY9khFwQtRT8XsXqTe8Tn1 "mention")  |
-| Whitepaper Contributor | [Stanly Johnson](https://app.gitbook.com/u/ptRBIz9ikMVCeJytYHYCXzmD7302 "mention") |
+| Role                   | Name                                                                 |
+| ---------------------- | -------------------------------------------------------------------- |
+| Whitepaper Author      | [Taha Abbasi](https://www.linkedin.com/in/tahaabbasi/)               |
+| Whitepaper Contributor | [Nick Odio](https://www.linkedin.com/in/nick-odio-176991161/)        |
+| Whitepaper Contributor | [Naiem Yeganeh](https://www.linkedin.com/in/naiem-yeganeh-12874712/) |
+| Whitepaper Contributor | Stanly Johnson                                                       |
 
 ### Introducing the Ferrum Network – Interoperability by Design
 
