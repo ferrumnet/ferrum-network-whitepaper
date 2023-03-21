@@ -10,12 +10,12 @@ description: >-
 
 Ferrum Network's mission is to make multichain interactions as easy as deploying a token contract on Ethereum. Ferrum Network is banking on Polkadot's bet against chain maximalism as we dive into an increasingly multichain future. To ensure the success of these unique chains with their unique value propositions, Ferrum Network is building technology to make multichain development, interaction, and integration as seamless as deploying a simple token contract on Ethereum. We are using the following core segments to accomplish our mission.
 
-1. Ecosystem agnostic BPM (Blockchain Package Manager) for the web3
+1. Ecosystem agnostic BPM (Blockchain Package Manager) for web3
 2. Vetted RPC and Infrastructure partners for each integrated chain
 3. Tech tools, demo dApps, scripts, and guides to "build once and deploy everywhere"
 4. Developer support and consistent updates based on developer feedback
 
-## Ecosystem agnostic BPM (Blockchain Package Manager) for the web3
+## Ecosystem agnostic BPM (Blockchain Package Manager) for web3
 
 ### Background and Inspiration from NPMs success
 
