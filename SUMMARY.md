@@ -37,7 +37,6 @@
   * [Securing the Rollup](architecture/security/securing-the-rollup.md)
 * [Glossary & Acronyms](architecture/glossary-and-acronyms/README.md)
   * [Glossary](architecture/glossary-and-acronyms/glossary.md)
-* [Ferrum Network's Business Model](architecture/ferrum-networks-business-model.md)
 
 ***
 
