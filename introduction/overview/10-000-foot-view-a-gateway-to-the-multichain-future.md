@@ -39,7 +39,7 @@ It takes quite a bit of effort for developers to learn that the architecture the
 
 ## Vetted RPC and Infrastructure partners for each integrated chain
 
-<img src="../../.gitbook/assets/file.excalidraw.svg" alt="Unreliable RPC Infrastructure" class="gitbook-drawing">
+<figure><img src="../../.gitbook/assets/Vetted RPC and Infrastructure partners for each integrated chain V2.png" alt=""><figcaption><p>Ureliable RPC Infrastructure</p></figcaption></figure>
 
 It's near impossible to build any dApp without reliable RPC infrastructure in place. Even if it's a set of a few nodes in the beginning, providing a reliable way to extract and submit data to the network is essential to enabling the development of dApps on the chain. Many chains have less than desirable reliability for their RPC infrastructure, and in many cases, they are not yet supported by major RPC providers. So developers have to play a game of Whac-A-Mole to figure out which provided endpoint will work. Even the ones working sometimes tend to go offline. Ferrum Network carefully works with layer 1 chains themselves to ensure reliable RPC infrastructure is in place. In cases where problems with infrastructure are evident, Ferrum Network provides guidance and, on some occasions, alternate solutions to developers.&#x20;
 
