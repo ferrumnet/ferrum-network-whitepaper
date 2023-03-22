@@ -11,7 +11,7 @@ However, with Multichain token and Ferrum's solutions, developers can build one 
 Here is an example of a Multichain token contract that can be deployed on Ethereum, BSC, and Polygon using Quantum Portal:
 
 ```solidity
-kotlinCopy code// SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
