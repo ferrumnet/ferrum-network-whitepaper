@@ -41,9 +41,9 @@
 ***
 
 * [💡 Use Cases](use-cases/README.md)
-  * [Multi-Chain Token](use-cases/multi-chain-token.md)
+  * [Multichain Token](use-cases/multichain-token.md)
   * [Bridging Value](use-cases/bridging-value.md)
-  * [Multi-Chain Staking](use-cases/multi-chain-staking.md)
+  * [Multichain Staking](use-cases/multichain-staking.md)
   * [Build Once, Deploy Everywhere](use-cases/build-once-deploy-everywhere.md)
 
 ## 🪙 Tokenomics
