@@ -1,6 +1,4 @@
-# Voting Eligibility and Process
-
-
+# ➕ Voting Eligibility and Process
 
 In our DAO governance structure, your vote matters. To participate in voting on proposals, you must have cFRM staked in the cFRM BSC or cFRM Arbitrum staking pools.
 
