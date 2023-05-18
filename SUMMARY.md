@@ -58,4 +58,4 @@
   * [📐 Overview](governance/ferrum-network-dao/overview.md)
   * [➕ Voting Eligibility and Process](governance/ferrum-network-dao/voting-eligibility-and-process.md)
   * [✍ Proposal Creation](governance/ferrum-network-dao/proposal-creation/README.md)
-    * [Steps](governance/ferrum-network-dao/proposal-creation/steps.md)
+    * [📝 Steps](governance/ferrum-network-dao/proposal-creation/steps.md)
