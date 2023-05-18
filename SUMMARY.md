@@ -56,6 +56,6 @@
 
 * [Ferrum Network DAO](governance/ferrum-network-dao/README.md)
   * [📐 Overview](governance/ferrum-network-dao/overview.md)
-  * [Voting Eligibility and Process](governance/ferrum-network-dao/voting-eligibility-and-process.md)
-  * [Proposal Creation](governance/ferrum-network-dao/proposal-creation/README.md)
+  * [➕ Voting Eligibility and Process](governance/ferrum-network-dao/voting-eligibility-and-process.md)
+  * [✍ Proposal Creation](governance/ferrum-network-dao/proposal-creation/README.md)
     * [Steps](governance/ferrum-network-dao/proposal-creation/steps.md)
