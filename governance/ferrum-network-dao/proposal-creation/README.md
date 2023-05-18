@@ -10,4 +10,4 @@ Once this discussion has been received the Ready For Voting tag, then the propos
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2023-05-17 at 10.41.21 AM.png" alt=""><figcaption></figcaption></figure>
 
-We are utilizing a custom staked-defi-balance strategy to check the qualification of the proposal creators and voters, contributed to Snapshot by Taha Abbasi. More information about this qualification strategy can be found in Snapshot’s public open-source repo [here](https://github.com/snapshot-labs/snapshot-strategies/tree/master/src/strategies/staked-defi-balance).\
+We are utilizing a custom `staked-defi-balance` strategy to check the qualification of the proposal creators and voters, contributed to [Snapshot](https://snapshot.org/#/) by [Taha Abbasi](https://github.com/taha-abbasi). More information about this qualification strategy can be found in Snapshot’s public open-source repo [here](https://github.com/snapshot-labs/snapshot-strategies/tree/master/src/strategies/staked-defi-balance).\
