@@ -1,4 +1,4 @@
-# Steps
+# 📝 Steps
 
 ## Step 1 - Create Proposal Suggestion
 
