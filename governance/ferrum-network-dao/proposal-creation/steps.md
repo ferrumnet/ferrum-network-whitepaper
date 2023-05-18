@@ -1,6 +1,6 @@
 # Steps
 
-## Step 1
+## Step 1 - Create Proposal Suggestion
 
 Any `qualified voter` can create a proposal suggestion in Discord `dao-proposal` forum.\
 A `qualified voter` must have atleast 1 cFRM in the BSC or Arbitrum Crucible Open Staking Pools.\
