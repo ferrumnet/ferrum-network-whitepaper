@@ -1,6 +1,6 @@
-# Multi-Chain Token
+# Multichain Token
 
-Ferrum Network's Quantum Portal Nodes and Quantum Portal Smart Contracts can be used to launch a multichain token with supply on multiple networks such as Ethereum, BSC, and other EVM networks. Additionally, non-EVM networks such as Cudos can be added. The supply of the token can be managed across networks without the need to utilize a bridge.
+Ferrum Network's Quantum Portal Nodes and Quantum Portal Smart Contracts can be used to launch a multichain token with supply on multiple networks such as Ethereum, BSC, and other EVM networks. Additionally, non-EVM networks such as Algorand can be added. The supply of the token can be managed across networks without the need to utilize a bridge.
 
 Here is an example of a MultiChain token:
 

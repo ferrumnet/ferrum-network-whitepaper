@@ -19,5 +19,5 @@ The QP Miners take turns based on an algorithm to create and relay these blocks 
 Once a transaction is mined, the record of a mined transaction is added to the `destinationChain`
 
 {% hint style="info" %}
-``[`Quantum Portal Blocks`](quantum-portal-blocks-qpb.md)`are made up of a pair i.e. sourceChain and destinationChain. The block numbers are incremented independently for each pair. So an ETH <> BSC pair can have block #1 and ETH <> Polygon pair can also have block #1. Learn more on the` [`Quantum Portal Blocks`](quantum-portal-blocks-qpb.md) `page.`
+[`Quantum Portal Blocks`](quantum-portal-blocks-qpb.md)`are made up of a pair i.e. sourceChain and destinationChain. The block numbers are incremented independently for each pair. So an ETH <> BSC pair can have block #1 and ETH <> Polygon pair can also have block #1. Learn more on the` [`Quantum Portal Blocks`](quantum-portal-blocks-qpb.md) `page.`
 {% endhint %}

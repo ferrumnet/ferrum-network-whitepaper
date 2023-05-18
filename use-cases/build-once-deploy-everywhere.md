@@ -39,11 +39,11 @@ This saves developers a significant amount of time and resources, as they can fo
 
 Overall, Ferrum Network provides developers with the tools they need to create impactful web3 solutions without the headache of having to learn a new language for each new feature or manage multiple versions of their codebase. This greatly simplifies the development process, enabling developers to focus on what they do best: building innovative solutions that solve real-world problems.
 
-## Challenging the Tripple Constraint Triangle
+## Challenging the Triple Constraint Triangle
 
 Projects can take advantage of Ferrum's innovative solution to deploy their dApps on multiple EVM and non-EVM networks without having to hire developers with expertise in different languages.
 
-This solution offers significant cost savings for projects. Typically, if a project owner wants to launch a dApp that takes advantage of the unique features of multiple blockchain networks, they would need to hire developers with specific expertise for each network. For example, they would need a PyTeal developer for Algorand, a Cosmos developer for Cudos, a RUST developer for Solana, a Solidity developer for Ethereum, and a Substrate developer for Polkadot.
+This solution offers significant cost savings for projects. Typically, if a project owner wants to launch a dApp that takes advantage of the unique features of multiple blockchain networks, they would need to hire developers with specific expertise for each network. For example, they would need a PyTeal developer for Algorand, a developer familiar with CosmosSDK or Go for appchains in the Cosmos ecosystem, a RUST developer for Solana, a Solidity developer for Ethereum, and a Substrate developer for parachains on Polkadot.
 
 However, with Ferrum Network's solution, projects can hire developers with a single set of expertise with Substrate developers who can deploy contracts on as many integrated chains as they desire. This significantly reduces costs and increases efficiency and speed to complete and launch multichain dApps.
 

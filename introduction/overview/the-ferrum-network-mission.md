@@ -20,7 +20,7 @@ Ferrum Network's sophisticated solutions simplify the complexity of building a m
 
 ### **Developability — Making life easier for developers**
 
-> “Although developability is critical for blockchain platforms, it is not often discussed. We think about usability a lot when we talk about product design, however for application platforms developability is the most important thing to attract developers to get apps built and put onto the platform.” **** — [@Polkadot](https://twitter.com/polkadotnetwork)&#x20;
+> “Although developability is critical for blockchain platforms, it is not often discussed. We think about usability a lot when we talk about product design, however for application platforms developability is the most important thing to attract developers to get apps built and put onto the platform.”  — [@Polkadot](https://twitter.com/polkadotnetwork)&#x20;
 >
 > Source: [How Polkadot tackles the biggest problems facing blockchain innovators](https://link.medium.com/o1goC1nazlb)
 
