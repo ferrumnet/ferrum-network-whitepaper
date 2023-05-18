@@ -2,13 +2,14 @@
 
 ## Step 1
 
-Any qualified voter can create a proposal suggestion in Discord dao-proposal forum.\
-A qualified voter must have atleast 1 cFRM in the BSC or Arbitrum Crucible Open Staking Pools.\
-\
-a. Must check existing proposals by searching forum to ensure it’s not a duplicate\
-b. Must follow [Proposal Suggestion Template](https://docs.google.com/document/d/1KWyIue0j64Zcoyo-chDzRvykDZq9-cCEDDpX5ewUllw/edit?usp=sharing)\
-c. If a and b are not followed dao-mods will delete the proposal\
-d. The proposal suggestion creator can also create a ticket in mod-support with a link to this post to expedite the status update.
+Any `qualified voter` can create a proposal suggestion in Discord `dao-proposal` forum.\
+A `qualified voter` must have atleast 1 cFRM in the BSC or Arbitrum Crucible Open Staking Pools.\
+
+
+1. Must check existing proposals by searching forum to ensure it’s not a duplicate
+2. Must follow [Proposal Suggestion Template](https://docs.google.com/document/d/1KWyIue0j64Zcoyo-chDzRvykDZq9-cCEDDpX5ewUllw/edit?usp=sharing)
+3. If 1. and 2. are not followed `dao-mods` will delete the proposal
+4. The proposal suggestion creator can also create a ticket in `mod-support` with a link to this post to expedite the status update.
 
 ## Step 2
 
