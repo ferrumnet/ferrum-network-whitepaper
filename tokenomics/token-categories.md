@@ -2,6 +2,10 @@
 
 The new dedicated categories are simple. They are Treasury, Team, and ECOP (Employee Crypto Ownership Plan).
 
+## Pre-Mainnet Launch Tokenomic Categories
+
+<figure><img src="../.gitbook/assets/Pre-Mainnet Launch Tokenomic Categories Whitepaper V4.png" alt=""><figcaption><p>Pre-Mainnet Launch Tokenomic Categories</p></figcaption></figure>
+
 ## **Treasury**
 
 The Treasury is where all network-related items and expenses will be sourced from. This includes but is not limited to areas such as Exchange Liquidity & Market Making, Bridge Liquidity, Ecosystem, and Mainnet and Parachain Fund. Treasury tokens will remain in multi-sig safes and will be released via governance mechanisms as we continue to iron out a state of the art approach towards governance.
@@ -44,4 +48,3 @@ As Web3 continues the brain drain from Web2 and other traditional sectors, organ
 
 We have reserved 4% of the Max Supply to the ECOP category to ensure that Ferrum keeps attracting and retaining the best talent.
 
-\
