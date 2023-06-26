@@ -4,7 +4,7 @@ The new dedicated categories are simple. They are Treasury, Team, and ECOP (Empl
 
 ## Pre-Mainnet Launch Tokenomic Categories
 
-<figure><img src="../.gitbook/assets/Pre-Mainnet Launch Tokenomic Categories Whitepaper V4.png" alt=""><figcaption><p>Pre-Mainnet Launch Tokenomic Categories</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Pre-Mainnet Launch Tokenomic Categories</p></figcaption></figure>
 
 ## **Treasury**
 
