@@ -24,7 +24,7 @@ It is now the proposal suggestion creator and proposal supporters' job to gain c
 
 ## Step 4 - Pulse Check
 
-A `dao-mod` will review the request and create a Pulse Check Poll “Should we send `frc-sug-1` for an official vote?” with voting options “yes” and “no”. This Pulse Check poll will be open for 5 days and requires 50 votes with a majority of yes votes to pass.\
+A `dao-mod` will review the request and create a Pulse Check Poll “Should we send `frc-sug-1` for an official vote?” with voting options “yes” and “no”. This Pulse Check poll will be open for 5 days and requires 20 votes with a majority of yes votes to pass.\
 
 
 1. If the Pulse check fails, the proposal is archived, assigned a <mark style="color:red;">Pulse Check Failed</mark> tag, a post is made with the date the failed tag was assigned, and a similar proposal cannot be raised again for a 30-day period.
@@ -48,10 +48,10 @@ Once `dao-mods` update the status to Waiting Period. Marketing can assist propos
 
 ## Step 8 - Voting Period
 
-The `dao-mod` who set the status to [Waiting Period](steps.md#step-7-waiting-period) for this proposal must set a reminder to update the status to Voting Period once the Waiting Period (currently 7 days after proposal creation on snapshot) is over. dao-mods should get the exact time from the snapshot proposal itself, and all times must be shared in UTC in the following format: 29-May-2023 at 14:30 UTC
+The `dao-mod` who set the status to [Waiting Period](steps.md#step-7-waiting-period) for this proposal must set a reminder to update the status to Voting Period once the Waiting Period (currently 3 days after proposal creation on snapshot) is over. dao-mods should get the exact time from the snapshot proposal itself, and all times must be shared in UTC in the following format: 29-May-2023 at 14:30 UTC
 
 1. During the voting period, marketing and proposal creators can assist in sharing the proposal to get the community involved.&#x20;
-2. Proposals require **20,000,000 cFRM/FRM** voting Power to form a quorum and pass i.e., if less than **20,000,000 cFRM/FRM staked holders** vote, the proposal will automatically fail due to a lack of a quorum.
+2. Proposals require **6,000,000 cFRM/FRM** voting Power to form a quorum and pass i.e., if less than **6,000,000 cFRM/FRM staked holders** vote, the proposal will automatically fail due to a lack of a quorum.
 
 ## Step 9 - Approve or Deny
 
