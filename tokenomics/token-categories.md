@@ -30,21 +30,19 @@ In terms of CEXs, we’re happy with being listed on Kucoin, Gate.io, and Ascend
 **Bridge Liquidity**\
 There is a chance that some Treasury tokens will go to support bridge liquidity. Perhaps FRM will serve as a sort of routing token for MultiSwap in the future. Bridge pools would need to exist on networks that MultiSwap is integrated with.
 
-## **Team**
+## **Team and ECOP**
 
-One major change that was[ announced a while back](https://medium.com/coinmonks/ferrum-team-extends-team-token-vesting-by-two-more-years-89ec38361b85?source=your\_stories\_page-------------------------------------) pertains to the Ferrum team tokens that make up 10% of the Max Supply. The team is in it for the long haul and has agreed to increase the duration of the Team token vesting period significantly. Originally, the team had a 1-year cliff, meaning tokens would’ve started vesting 12 months after launch or in August of 2020. The ensuing release schedule was spread out over 3 years. Team tokens would’ve been entirely vested by August of 2023. In August 2020, the team decided to extend the lockup to 3 years and increase the release schedule from 24 to 36 months as well. This would’ve meant that Team tokens would’ve been fully vested by August of 2025…
+One major change that was[ announced a while back](https://medium.com/coinmonks/ferrum-team-extends-team-token-vesting-by-two-more-years-89ec38361b85?source=your\_stories\_page-------------------------------------) pertains to the Ferrum Team and ECOP tokens that make up 14% of the Max Supply. The team is in it for the long haul and has agreed to increase the duration of the Team token vesting period significantly. Originally, the team had a 1-year cliff, meaning tokens would’ve started vesting 12 months after launch or in August of 2020. The ensuing release schedule was spread out over 3 years. Team tokens would’ve been entirely vested by August of 2023. In August 2020, the team decided to extend the lockup to 3 years and increase the release schedule from 24 to 36 months as well. This would’ve meant that Team tokens would’ve been fully vested by August of 2025…
 
-Well, the Ferrum team has done it again. This time they’ve agreed to lock the Team tokens for an additional 12 months and extend the release schedule from 36 to 48 months! The release of these roughly 66 million tokens will not begin until August 2023, and they will not be fully vested until August of 2027! That’s an extra 2 years that Ferrum has added to the vesting for their own tokens.
+Well, the Ferrum team has done it again. This time they’ve agreed to lock the Team tokens for an additional 12 months and extend the release schedule from 36 to 48 months! The release of these roughly 86 million tokens will not begin until August 2023, and they will not be fully vested until August of 2027! That’s an extra 2 years that Ferrum has added to the vesting for their own tokens.
 
 _**Note: Most Web3 teams have between 6 and 12-month cliffs and release schedules lasting from 12 to 36 months. Ferrum now has a 48-month cliff followed by a linear release schedule lasting 48 months for a whopping total of 96 months of vesting!**_
 
 Since Ferrum’s inception, the team has DOUBLED the amount of time they’re waiting to tap into their allocation of $FRM. That’s dedication and clear proof that there is much more to come from Ferrum…!
 
-## **ECOP (Employee Crypto Ownership Plan)**
+### **ECOP (Employee Crypto Ownership Plan)**
 
 As Web3 continues the brain drain from Web2 and other traditional sectors, organizational benefits for new employees are becoming more common. ECOP stands for “Employee Crypto Ownership Plan’’ and is structured very similarly to ESOP (employee stock ownership plan). We believe that a team whose goals are in line with the company makes for the most motivated and productive organization.
 
 > “The ability to enjoy rewards from the success of the company is a significant motivator candidate. ECOPs are quickly becoming one of the strongest elements in the recruitment toolkit to attract top-tier talent.” — Taha Abbasi, CSO at Ferrum Network
-
-We have reserved 4% of the Max Supply to the ECOP category to ensure that Ferrum keeps attracting and retaining the best talent.
 
