@@ -20,7 +20,7 @@ FRM will serve as the governance token for the Ferrum Network. FRM holders will 
 
 ### Access to Presales&#x20;
 
-By holding cFRM community members can access presales to early stage projects. These projects are either incubated through Ferrum Advisory Services or invested in through Ferrum Ventures.
+By staking cFRM community members can access presales to early stage projects via [TDI (The Decentralized Incubator)](https://decentralizedincubator.com/).
 
 ### Token Burn&#x20;
 
