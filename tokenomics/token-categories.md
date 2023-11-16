@@ -2,7 +2,9 @@
 
 ## Pre-Mainnet Launch Tokenomic Categories
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Pre-mainnet Launch Tokenomic Categories</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Pre-Mainnet Launch Tokenomic Categories</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Pre-mainnet Launch Tokenomic Categories</p></figcaption></figure>
 
 ## **Treasury**
 
