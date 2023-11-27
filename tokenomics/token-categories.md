@@ -4,8 +4,6 @@
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Pre-Mainnet Launch Tokenomic Categories</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Pre-mainnet Launch Tokenomic Categories</p></figcaption></figure>
-
 ## **Treasury**
 
 The Treasury is where all network-related items and expenses will be sourced from. This includes but is not limited to areas such as exchange liquidity & market making, bridge liquidity, ecosystem incentives, and mainnet and parachain funding. Treasury tokens will remain in multi-sig safes and will be released via governance mechanisms as we continue to iron out a state of the art approach towards governance.
@@ -30,6 +28,8 @@ In terms of CEXs, we’re happy with being listed on Kucoin, Gate.io, and Ascend
 **Bridge Liquidity**\
 There is a chance that some Treasury tokens will go to support bridge liquidity. Perhaps FRM will serve as a sort of routing token for MultiSwap in the future. Bridge pools would need to exist on networks that MultiSwap is integrated with.
 
+## **Team & ECOP**
+
 _**Note: Most Web3 teams have between 6 and 12-month cliffs and release schedules lasting from 12 to 36 months. Ferrum now has a 48-month cliff followed by a linear release schedule lasting 48 months for a whopping total of 96 months of vesting!**_
 
 Since Ferrum’s inception, the team has DOUBLED the amount of time they’re waiting to tap into their allocation of $FRM. That’s dedication and clear proof that there is much more to come from Ferrum…!
@@ -38,3 +38,6 @@ As Web3 continues the brain drain from Web2 and other traditional sectors, organ
 
 > “The ability to enjoy rewards from the success of the company is a significant motivator candidate. ECOPs are quickly becoming one of the strongest elements in the recruitment toolkit to attract top-tier talent.” — Taha Abbasi, CSO at Ferrum Network
 
+## Reserves
+
+To understand how the Reserves will function, please refer to the [Monetary Policy](https://docs.ferrumnetwork.io/ferrum-network-ecosystem/tokenomics/monetary-policy) in the previous section.
