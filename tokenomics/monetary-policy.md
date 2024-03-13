@@ -94,9 +94,6 @@ Transaction fees are also one of the mechanisms used to reward QPMs and QPVs as 
 
 FRM became a deflationary asset as part of the creation of the Ferrum Cross-Chain Token Bridge, which is of course evolving into our multi-chain swapping protocol, MultiSwap. We furthered this agenda with the advent of our latest DeFi 2.0 product, Crucible, which burns between 0.1–0.4% of all transacted volume of the wrapped reflection version of FRM, cFRM.
 
-Not only does burning FRM make the asset more scarce, it also helps to combat emissions. At the time of writing a total of (INSERT NUMBER) FRM and counting, have been burned. These tokens have been effectively removed from the Total Supply!&#x20;
+Not only does burning FRM make the asset more scarce, it also helps to combat emissions. At the time of writing over 18,513,772.1864 FRM and counting, have been burned. These tokens have been effectively removed from the Total Supply!  That's over 3% of the total supply burned to date.
 
-It has long been the goal of the team to make FRM deflationary by way of the network as well. While assets like BTC are deflationary in nature by way the Halvening, so will be FRM by way of our monetary expansion mechanism. As each year passes, the amount of FRM will be less and less. However, we wanted to take it one step further and introduce regular burns through two other mechanisms:
-
-1. Through transaction fees on the network
-2. By using cFRM as the token through which monetary expansion takes place.
+It has long been the goal of the team to make FRM deflationary by way of the network as well. While assets like BTC are deflationary in nature by way the Halvening, so will be FRM by way of our monetary expansion mechanism. As each year passes, the amount of FRM will be less and less.&#x20;
