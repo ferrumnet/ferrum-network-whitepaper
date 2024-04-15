@@ -1,6 +1,6 @@
 # 👥 Team
 
-### Battle Tested, Resilient & Adaptive
+## Battle Tested, Resilient & Adaptive
 
 Over the last 3 years**,** we have built a highly skilled and experienced team to lead the next phase of growth for Ferrum Network.&#x20;
 
@@ -12,7 +12,7 @@ Ferrum Network was founded by a team of experts with a long-standing professiona
 
 </div>
 
-[**Naiem Yeganeh**](https://www.linkedin.com/in/naiem-yeganeh-12874712/)**, Founder at Ferrum Network**
+## [**Naiem Yeganeh**](https://www.linkedin.com/in/naiem-yeganeh-12874712/)**, Founder at Ferrum Network**
 
 Naiem Yeganeh is a co-founder of Ferrum Network. He graduated from the University of Queensland and began a career in software engineering in 2013.
 
@@ -24,7 +24,7 @@ Naiem also founded Maad Afrooz Technology and has worked for the big tech compan
 
 </div>
 
-[**Ian Friend**](https://www.linkedin.com/in/ian-friend-bb949657/)**, Co-Founder at Ferrum Network**
+## [**Ian Friend**](https://www.linkedin.com/in/ian-friend-bb949657/)**, Co-Founder at Ferrum Network**
 
 Ian Friend is another co-founder of Ferrum Network. He has a degree in business law from the New York Law School and was an associate attorney for several big firms, including Pantano & Gupta and Wilson Elser.
 
@@ -38,7 +38,7 @@ Over the years, Ian has grown Ferrum's reach, and impact to new heights. Ian hel
 
 </div>
 
-[**Taha Abbasi**](https://www.linkedin.com/in/tahaabbasi/)**, CTO at Ferrum Network**
+## [**Taha Abbasi**](https://www.linkedin.com/in/tahaabbasi/)**, CTO at Ferrum Network**
 
 Taha Abbasi has extensive experience building solutions at scale. He has led teams for some of the world's most prestigious organizations like Apple, NASA's JPL Labs, National Geographic Channel, and more. Along with extensive technical, and business implementation experience, Taha has a formidable education background from prestigious universities, including Harvard, MIT Sloan, and more.&#x20;
 
@@ -50,7 +50,7 @@ Taha founded a successful software firm and led engineering teams who helped con
 
 </div>
 
-[**Nick Odio**](https://www.linkedin.com/in/nick-odio-176991161/)**, Chief Growth Officer at Ferrum Network**
+## [**Nick Odio**](https://www.linkedin.com/in/nick-odio-176991161/)**, Chief Growth Officer at Ferrum Network**
 
 Nick is a serial networker. From being heavily involved in the music industry, working with Grammy award winning artists, to leading field operations divisions for companies, Nick has extensive experience in areas related to strategic partnerships and relationship management, as well as strategic initiatives.
 
@@ -62,7 +62,7 @@ Nick Odio has been instrumental in Ferrum's growth. Nick has formed integral par
 
 </div>
 
-[**Nichell Logue**](https://www.linkedin.com/in/nichelllogue/)**, EVP Operations at Ferrum Network**
+## [**Nichell Logue**](https://www.linkedin.com/in/nichelllogue/)**, EVP Operations at Ferrum Network**
 
 Nichell Logue brings decades of global operations as well as brand and asset protection experience to Ferrum. Nichell has spent the last decade helping manage digital brand assets and providing brand advisory services at CSC (Corporation Service Company). CSC manages the incorporation of 90% of Fortune 500 companies. It's quite possible some of your business portfolios are managed by them. Nichell was part of the founding team of the DBS division at CSC, and over her 10-year tenure, Nichell was instrumental in DBS' global growth. Nichell's team was responsible for managing over $100 million in ARR for the organization.
 
@@ -72,6 +72,6 @@ Nichell Logue brings decades of global operations as well as brand and asset pro
 
 </div>
 
-[**Hasnat Malik**](https://www.linkedin.com/in/hasnat-malik/)**, Director of Projects at Ferrum Network**
+## [**Hasnat Malik**](https://www.linkedin.com/in/hasnat-malik/)**, Director of Projects at Ferrum Network**
 
 Hasnat Malik is a resourceful and professional individual who brings 12 years of experience with a proven ability to lead the development of new and innovative services, products & solutions within blockchain industry. He enjoys the challenge and diversity that any business face and strive to provide the best possible service, product or solutions. The customer service side of blockchain industry is what drives his passion for helping others achieve their goals and targets while ensuring a long term relationship. he is an excellent communicator who enjoys working in a team environment as well as using his own initiative.
