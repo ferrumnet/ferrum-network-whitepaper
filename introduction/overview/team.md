@@ -20,20 +20,6 @@ Naiem also founded Maad Afrooz Technology and has worked for the big tech compan
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/Ian-M.-Friend-ESQ (1).png" alt=""><figcaption><p>an Friend, Co-Founder at <a href="https://ferrum.network/">Ferrum Network</a></p></figcaption></figure>
-
-</div>
-
-## [**Ian Friend**](https://www.linkedin.com/in/ian-friend-bb949657/)**, Co-Founder at Ferrum Network**
-
-Ian Friend is another co-founder of Ferrum Network. He has a degree in business law from the New York Law School and was an associate attorney for several big firms, including Pantano & Gupta and Wilson Elser.
-
-Ian has served as a strategic advisor for a multitude of projects across Web3. Since 2018, he has left his active duties as an attorney and turned his full attention toward the Ferrum Network.
-
-Over the years, Ian has grown Ferrum's reach, and impact to new heights. Ian helped launch Ferrum's staking business which now serves as the staking technology powering over 200 crypto projects. Ian successfully led the growth of this business to a lifetime TVL (Total Value Locked) of $500 million.
-
-<div align="left">
-
 <figure><img src="../../.gitbook/assets/Taha-Abbasi.png" alt=""><figcaption><p>Taha Abbasi, CTO at <a href="https://ferrum.network/">Ferrum Network</a></p></figcaption></figure>
 
 </div>
