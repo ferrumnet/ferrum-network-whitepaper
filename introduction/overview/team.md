@@ -42,13 +42,13 @@ Nick is a serial networker. From being heavily involved in the music industry, w
 
 Nick Odio has been instrumental in Ferrum's growth. Nick has formed integral partnerships and helped Ferrum establish a presence by garnering interest and backing from industry leaders in the form of grants, partnerships, and capital interest. Nick continues to demonstrate an exceptional ability to stay attuned to cutting-edge innovations in crypto, providing valuable insight to the Ferrum Executive team and leadership regarding our strategic direction forward.
 
+## [**Nichell Logue**](https://www.linkedin.com/in/nichelllogue/)**, EVP Operations at Ferrum Network**
+
 <div align="left">
 
 <figure><img src="../../.gitbook/assets/Nichell-Logue.png" alt=""><figcaption><p>Nichell Logue, EVP Operations at <a href="https://ferrum.network/">Ferrum Network</a></p></figcaption></figure>
 
 </div>
-
-## [**Nichell Logue**](https://www.linkedin.com/in/nichelllogue/)**, EVP Operations at Ferrum Network**
 
 Nichell Logue brings decades of global operations as well as brand and asset protection experience to Ferrum. Nichell has spent the last decade helping manage digital brand assets and providing brand advisory services at CSC (Corporation Service Company). CSC manages the incorporation of 90% of Fortune 500 companies. It's quite possible some of your business portfolios are managed by them. Nichell was part of the founding team of the DBS division at CSC, and over her 10-year tenure, Nichell was instrumental in DBS' global growth. Nichell's team was responsible for managing over $100 million in ARR for the organization.
 
