@@ -2,9 +2,9 @@
 
 ## Battle Tested, Resilient & Adaptive
 
-Over the last 3 years**,** we have built a highly skilled and experienced team to lead the next phase of growth for Ferrum Network.&#x20;
+Over the last 6 years**,** we have built a highly skilled and experienced team to lead the next phase of growth for Ferrum Network.&#x20;
 
-Ferrum Network was founded by a team of experts with a long-standing professional history in engineering and blockchain technology.
+Like Bitcoin, Ferrum Network is a truly open source protocol project and has not team. Any developer can chose to contribute towards the development and success of Ferrum Network. One of the key contributing teams towards the inception and development of the network is Ferrum Labs. Ferrum Labs was founded by a team of experts with a long-standing professional history in engineering and blockchain technology.
 
 <div align="left">
 
