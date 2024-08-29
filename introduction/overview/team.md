@@ -8,11 +8,11 @@ Ferrum Network was founded by a team of experts with a long-standing professiona
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/Naiem-Yeganeh-PHD.png" alt=""><figcaption><p>Naiem Yeganeh, Founder at <a href="https://ferrum.network/">Ferrum Network</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Naiem-Yeganeh-PHD.png" alt=""><figcaption><p>Naiem Yeganeh, Founding Team Member at Ferrum Labs</p></figcaption></figure>
 
 </div>
 
-## [**Naiem Yeganeh**](https://www.linkedin.com/in/naiem-yeganeh-12874712/)**, Founder at Ferrum Network**
+## [**Naiem Yeganeh**](https://www.linkedin.com/in/naiem-yeganeh-12874712/)**,** Founding Team Member, Senior Contributing Engineer
 
 Naiem Yeganeh is a co-founder of Ferrum Network. He graduated from the University of Queensland and began a career in software engineering in 2013.
 
@@ -20,29 +20,27 @@ Naiem also founded Maad Afrooz Technology and has worked for the big tech compan
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/Taha-Abbasi.png" alt=""><figcaption><p>Taha Abbasi, CTO at <a href="https://ferrum.network/">Ferrum Network</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Taha-Abbasi.png" alt=""><figcaption><p>Taha Abbasi, CTO at Ferrum Labs</p></figcaption></figure>
 
 </div>
 
-## [**Taha Abbasi**](https://www.linkedin.com/in/tahaabbasi/)**, CTO at Ferrum Network**
+## [**Taha Abbasi**](https://www.linkedin.com/in/tahaabbasi/)**,** Founding Team Member, CTO at Ferrum Labs
 
-Taha Abbasi has extensive experience building solutions at scale. He has led teams for some of the world's most prestigious organizations like Apple, NASA's JPL Labs, National Geographic Channel, and more. Along with extensive technical, and business implementation experience, Taha has a formidable education background from prestigious universities, including Harvard, MIT Sloan, and more.&#x20;
+Taha Abbasi has extensive experience building solutions at scale for some of the world’s most prestigious organizations, including NASA’s JPL Labs, Apple, and National Geographic Channel. He has a strong educational background from Harvard, MIT Sloan, and other prestigious institutions, focusing on human-centered product and system design. Taha founded a successful software firm and led engineering teams that contributed to the Mars 2020 and Europa missions at JPL.&#x20;
 
-Taha founded a successful software firm and led engineering teams who helped contribute to the MARS 2020 and Europa Missions at JPL Labs with NASA. He advised and led as the Project CTO for National Geographic Channel SG, and built large-scale applications that serve millions of users worldwide.
+As an Executive Officer at Ferrum Labs, Taha leads the architecture and development of Ferrum’s sophisticated interoperability systems, including cross-chain communication, liquidity aggregation, and asset transfer mechanisms. He is the author of the Ferrum Network Protocol Whitepaper and the inventor of OmniChain Liquidity, guiding the Ferrum team in building a more approachable Web3 ecosystem for consumers. His extensive technical knowledge and business expertise, combined with his experience in managing DNS systems for Fortune 500 companies at CSC, uniquely position him to lead Ferrum into the future of decentralized infrastructure.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/Nick-Odio (1).png" alt=""><figcaption><p>Nick Odio, Chief Growth Officer at <a href="https://ferrum.network/">Ferrum Network</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Nick-Odio (1).png" alt=""><figcaption><p>Nick Odio, Chief Growth Officer at Ferrum Labs</p></figcaption></figure>
 
 </div>
 
-## [**Nick Odio**](https://www.linkedin.com/in/nick-odio-176991161/)**, Chief Growth Officer at Ferrum Network**
+## [**Nick Odio**](https://www.linkedin.com/in/nick-odio-176991161/)**,** Founding Team Member, Chief Growth Officer (CGO) at Ferrum Labs
 
-Nick is a serial networker. From being heavily involved in the music industry, working with Grammy award winning artists, to leading field operations divisions for companies, Nick has extensive experience in areas related to strategic partnerships and relationship management, as well as strategic initiatives.
+Nick Odio is a serial networker with an extensive background in music and field operations management, working with Grammy Award-winning artists and leading operations for multiple companies. At Ferrum, Nick has played a critical role in forming key partnerships, securing over $1 million in grants and revenue from Layer 1, Layer 2, and Layer 3 integrations. Nick has been instrumental in building the Iron Alliance, a group of over two dozen leading organizations using Ferrum technology. His strategic networking skills ensure Ferrum’s growth and its continued integration across the Web3 ecosystem.
 
-Nick Odio has been instrumental in Ferrum's growth. Nick has formed integral partnerships and helped Ferrum establish a presence by garnering interest and backing from industry leaders in the form of grants, partnerships, and capital interest. Nick continues to demonstrate an exceptional ability to stay attuned to cutting-edge innovations in crypto, providing valuable insight to the Ferrum Executive team and leadership regarding our strategic direction forward.
-
-## [**Nichell Logue**](https://www.linkedin.com/in/nichelllogue/)**, EVP Operations at Ferrum Network**
+## [**Nichell Logue**](https://www.linkedin.com/in/nichelllogue/)**,** Founding Team Member, Chief Operating Officer (COO) at Ferrum Labs
 
 <div align="left">
 
@@ -50,7 +48,9 @@ Nick Odio has been instrumental in Ferrum's growth. Nick has formed integral par
 
 </div>
 
-Nichell Logue brings decades of global operations as well as brand and asset protection experience to Ferrum. Nichell has spent the last decade helping manage digital brand assets and providing brand advisory services at CSC (Corporation Service Company). CSC manages the incorporation of 90% of Fortune 500 companies. It's quite possible some of your business portfolios are managed by them. Nichell was part of the founding team of the DBS division at CSC, and over her 10-year tenure, Nichell was instrumental in DBS' global growth. Nichell's team was responsible for managing over $100 million in ARR for the organization.
+Nichell Logue brings over a decade of global operations and brand protection experience to Ferrum, alongside 4 years of experience scaling Web3 companies. At Ferrum Labs, Nichell has been instrumental in scaling operations for the past 4 years, advising nearly three dozen organizations on strategies for operations, fund management, community management, and personnel management, all within the Web3 space.&#x20;
+
+She has also developed relationships with key Web3 vendors to optimize costs and establish growth strategies for integration. Nichell’s background at CSC’s Digital Brand Services division, where she helped manage over $100 million in ARR (annual recurring revenue) and served 90% of Fortune 500 companies, further complements her extensive Web3 experience. Her combination of traditional internet infrastructure expertise and Web3 operational leadership makes her a vital asset in building Ferrum’s vision of “The Blockchain.”
 
 <div align="left">
 
@@ -58,6 +58,6 @@ Nichell Logue brings decades of global operations as well as brand and asset pro
 
 </div>
 
-## [**Hasnat Malik**](https://www.linkedin.com/in/hasnat-malik/)**, Director of Projects at Ferrum Network**
+## [**Hasnat Malik**](https://www.linkedin.com/in/hasnat-malik/)**,** Founding Team Member, Director of Projects at Ferrum Labs
 
-Hasnat Malik is a resourceful and professional individual who brings 12 years of experience with a proven ability to lead the development of new and innovative services, products & solutions within blockchain industry. He enjoys the challenge and diversity that any business face and strive to provide the best possible service, product or solutions. The customer service side of blockchain industry is what drives his passion for helping others achieve their goals and targets while ensuring a long term relationship. he is an excellent communicator who enjoys working in a team environment as well as using his own initiative.
+Hasnat Malik is a resourceful and professional individual with 12 years of experience leading the development of innovative services and products across Web2 and Web3. Before transitioning to Web3 four years ago, Hasnat developed software for hundreds of Web2 teams and has since worked with dozens of Web3 projects. Hasnat’s passion for building relationships and delivering exceptional customer service drives his work, making him an invaluable leader in overseeing Ferrum’s project development. His extensive expertise allows him to guide teams in achieving their goals while driving innovation across Ferrum’s product offerings.
