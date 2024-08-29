@@ -52,12 +52,35 @@ Nichell Logue brings over a decade of global operations and brand protection exp
 
 She has also developed relationships with key Web3 vendors to optimize costs and establish growth strategies for integration. Nichell’s background at CSC’s Digital Brand Services division, where she helped manage over $100 million in ARR (annual recurring revenue) and served 90% of Fortune 500 companies, further complements her extensive Web3 experience. Her combination of traditional internet infrastructure expertise and Web3 operational leadership makes her a vital asset in building Ferrum’s vision of “The Blockchain.”
 
+## Ian Friend – Founding Team Member
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/Ian-M.-Friend-ESQ (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Ian Friend, a lawyer by background, entered the crypto space in 2017 and has since become a key operator and advisor within the industry. Having personally advised nearly 100 projects over the past six years, Ian has developed extensive connections across the Web3 landscape. Many of the projects he has worked with have integrated Ferrum Labs’ technology, positioning him as a trusted advisor and strategist. Ian’s deep industry knowledge, coupled with his advisory experience, gives Ferrum Labs a strategic edge in scaling the network’s adoption.
+
+## **Hasnat Malik,** Founding Team Member, Director of Projects at Ferrum Labs
+
 <div align="left">
 
 <figure><img src="../../.gitbook/assets/Muhammad-Hasnat-Malik (1).png" alt=""><figcaption><p>Hasnat Malik, Director of Projects at <a href="https://ferrum.network/">Ferrum Network</a></p></figcaption></figure>
 
 </div>
 
-## [**Hasnat Malik**](https://www.linkedin.com/in/hasnat-malik/)**,** Founding Team Member, Director of Projects at Ferrum Labs
+
 
 Hasnat Malik is a resourceful and professional individual with 12 years of experience leading the development of innovative services and products across Web2 and Web3. Before transitioning to Web3 four years ago, Hasnat developed software for hundreds of Web2 teams and has since worked with dozens of Web3 projects. Hasnat’s passion for building relationships and delivering exceptional customer service drives his work, making him an invaluable leader in overseeing Ferrum’s project development. His extensive expertise allows him to guide teams in achieving their goals while driving innovation across Ferrum’s product offerings.
+
+## Asad Khalid – Founding Team Member, Chief Financial Officer (CFO)
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/Untitled design (1).png" alt="" width="250"><figcaption></figcaption></figure>
+
+</div>
+
+Asad Khalid is a Chartered Accountant (CA) with years of experience setting up secure and sophisticated financial management infrastructures for global organizations. He specializes in ensuring compliance in rigorous regulatory environments and managing decentralized Web3 treasuries. Asad’s expertise in signature and authentication management for key holders and accounting for complex systems with assets across chains and ecosystems is instrumental to Ferrum Labs’ smooth operations. His financial acumen ensures that Ferrum Labs maintains operational excellence while navigating the complexities of the decentralized finance world.
+
