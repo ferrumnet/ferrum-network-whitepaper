@@ -9,7 +9,6 @@
   * [🌎 Market Opportunity](introduction/overview/market-opportunity.md)
   * [⚖️ Problem and the Solution](introduction/overview/problem-and-the-solution.md)
   * [🗺️ 10,000 Foot View – A gateway to the multichain future](introduction/overview/10-000-foot-view-a-gateway-to-the-multichain-future.md)
-  * [👥 Team](introduction/overview/team.md)
 
 ## 🛠️ Architecture
 
