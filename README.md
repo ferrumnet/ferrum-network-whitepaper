@@ -4,13 +4,6 @@ description: Version 0.10.0 | 27-March-2023
 
 # Welcome to the Ferrum Network
 
-| Role                   | Name                                                                 |
-| ---------------------- | -------------------------------------------------------------------- |
-| Whitepaper Author      | [Taha Abbasi](https://www.linkedin.com/in/tahaabbasi/)               |
-| Whitepaper Contributor | [Nick Odio](https://www.linkedin.com/in/nick-odio-176991161/)        |
-| Whitepaper Contributor | [Naiem Yeganeh](https://www.linkedin.com/in/naiem-yeganeh-12874712/) |
-| Whitepaper Contributor | Stanly Johnson                                                       |
-
 ### Introducing the Ferrum Network – Interoperability by Design
 
 Ferrum Network is bringing value, data, and functional interoperability to every chain in the industry. Utilizing the Ferrum Network, teams can now build and deploy solutions on one network and instantly enable multi-chain functionality without the burden or technical debt that comes with managing a multi-chain infrastructure for their dApps, and projects.
